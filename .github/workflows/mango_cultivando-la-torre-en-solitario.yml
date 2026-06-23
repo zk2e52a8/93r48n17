@@ -1,0 +1,56 @@
+name: Mango - Cultivando en la torre en solitario
+
+env:
+  comando_script: node ./mango_scraping.js "series/cultivando-en-la-torre-en-solitario" "Mango - Cultivando en la torre en solitario" "mango_feed_cultivando-la-torre-en-solitario.json"
+  archivo_feed: mango_feed_cultivando-la-torre-en-solitario.json
+
+concurrency:
+  group: scraping
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: '0 0 */1 * *'
+  workflow_dispatch:
+
+jobs:
+  ejecutar_script:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Configurar WireGuard
+        uses: Cardtonic-Technologies/ttt-wireguard@main
+        with:
+          WG_CONFIG: ${{ secrets.WG_CONFIG }}
+    
+      - name: Clonar repositorio privado
+        uses: actions/checkout@v6
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v5
+
+      - name: Instalar dependencias
+        run: |
+          npm install --prefix /tmp/scraping puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+          npx puppeteer browsers install chrome
+
+      - name: Ejecutar script
+        run: |
+          export NODE_PATH=/tmp/scraping/node_modules
+          bash -c "$comando_script"
+
+      - name: Configurar git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Subir cambios al repo
+        run: |
+          if git status --porcelain | grep -q .; then
+            git add --all
+            git commit -m "Actualizado: $archivo_feed"
+            git push origin main
+          else
+            echo "Sin cambios"
+          fi
