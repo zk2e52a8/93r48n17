@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 99]",
+			"title": "Resurrección solitaria [Capítulo 99]",
+			"url": "https://olympusxyz.com/capitulo/129957/comic-resurreccion-solitaria-20260623-080521760",
+			"date_published": "2026-06-24T07:18:57.000Z"
+		},
+		{
 			"id": "El Rey demonio tiene 18 años [Capítulo 44.05]",
 			"title": "El Rey demonio tiene 18 años [Capítulo 44.05]",
 			"url": "https://olympusxyz.com/capitulo/129953/comic-el-rey-demonio-tiene-18-anos",
@@ -2995,12 +3001,6 @@
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 60]",
 			"url": "https://olympusxyz.com/capitulo/129196/comic-el-perro-loco-de-la-mansion-del-duque",
 			"date_published": "2026-06-02T15:42:03.000Z"
-		},
-		{
-			"id": "Regresión del bastardo del clan de la espada [Capítulo 98]",
-			"title": "Regresión del bastardo del clan de la espada [Capítulo 98]",
-			"url": "https://olympusxyz.com/capitulo/129195/comic-regresion10-05-20250152309",
-			"date_published": "2026-06-02T15:17:36.000Z"
 		}
 	]
 }
