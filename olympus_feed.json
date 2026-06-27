@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Espectro del Desierto Calcinado [Capítulo 26]",
+			"title": "El Espectro del Desierto Calcinado [Capítulo 26]",
+			"url": "https://olympusxyz.com/capitulo/130045/comic-el-espectro-del-desierto-calcinado",
+			"date_published": "2026-06-27T13:56:48.000Z"
+		},
+		{
 			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 31.5]",
 			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 31.5]",
 			"url": "https://olympusxyz.com/capitulo/130044/comic-el-herrero-que-regreso-para-reparar-todo",
@@ -2995,12 +3001,6 @@
 			"title": "Archimago trascendiendo a través de la regresión [Capítulo 203]",
 			"url": "https://olympusxyz.com/capitulo/129307/comic-archima20-225-de-la-regresion13424",
 			"date_published": "2026-06-05T13:04:04.000Z"
-		},
-		{
-			"id": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 4]",
-			"title": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 4]",
-			"url": "https://olympusxyz.com/capitulo/129306/comic-el-camino-a-la-divinidad-comienza-con-esqueletos",
-			"date_published": "2026-06-05T04:46:30.000Z"
 		}
 	]
 }
