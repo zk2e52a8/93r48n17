@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Colorista [Capítulo 38]",
+			"title": "Colorista [Capítulo 38]",
+			"url": "https://olympusxyz.com/capitulo/130043/comic-colorista-20260626-080401429",
+			"date_published": "2026-06-27T04:20:45.000Z"
+		},
+		{
 			"id": "Guia de supervivencia del extra de la academia [Capítulo 112]",
 			"title": "Guia de supervivencia del extra de la academia [Capítulo 112]",
 			"url": "https://olympusxyz.com/capitulo/130039/comic-guia-de-supervivencia-del-extra-de-la-academia-20260626-080052390",
@@ -2995,12 +3001,6 @@
 			"title": "Colorista [Capítulo 35]",
 			"url": "https://olympusxyz.com/capitulo/129305/comic-colorista-20260606-080421231",
 			"date_published": "2026-06-05T04:07:52.000Z"
-		},
-		{
-			"id": "El Séptimo Príncipe Quiere Escapar [Capítulo 7]",
-			"title": "El Séptimo Príncipe Quiere Escapar [Capítulo 7]",
-			"url": "https://olympusxyz.com/capitulo/129304/comic-el-septimo-principe-quiere-escapar",
-			"date_published": "2026-06-05T02:51:05.000Z"
 		}
 	]
 }
