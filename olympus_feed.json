@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 42]",
+			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 42]",
+			"url": "https://olympusxyz.com/capitulo/130154/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
+			"date_published": "2026-06-30T14:14:28.000Z"
+		},
+		{
 			"id": "El soberano del hogar [Capítulo 86]",
 			"title": "El soberano del hogar [Capítulo 86]",
 			"url": "https://olympusxyz.com/capitulo/130153/comic-el-soberano-del-hogar-20260629-080047130",
@@ -2995,12 +3001,6 @@
 			"title": "El Mago de Decima Clase [Capítulo 14]",
 			"url": "https://olympusxyz.com/capitulo/129402/comic-el-mago-de-decima-clase-20260608-080316180",
 			"date_published": "2026-06-08T13:35:07.000Z"
-		},
-		{
-			"id": "Archimago trascendiendo a través de la regresión [Capítulo 204]",
-			"title": "Archimago trascendiendo a través de la regresión [Capítulo 204]",
-			"url": "https://olympusxyz.com/capitulo/129308/comic-archima20-225-de-la-regresion13424",
-			"date_published": "2026-06-08T13:02:31.000Z"
 		}
 	]
 }
