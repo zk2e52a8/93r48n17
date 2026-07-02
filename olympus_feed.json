@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 37]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 37]",
+			"url": "https://olympusxyz.com/capitulo/130208/comic-el-rey-demonio-abrumado-por-heroes-20260629-080118816",
+			"date_published": "2026-07-02T21:07:59.000Z"
+		},
+		{
+			"id": "El Gobernante de la Oscuridad [Capítulo 9]",
+			"title": "El Gobernante de la Oscuridad [Capítulo 9]",
+			"url": "https://olympusxyz.com/capitulo/130206/comic-el-gobernante-de-la-oscuridad",
+			"date_published": "2026-07-02T20:37:13.000Z"
+		},
+		{
+			"id": "Cómo criar villanos correctamente [Capítulo 42]",
+			"title": "Cómo criar villanos correctamente [Capítulo 42]",
+			"url": "https://olympusxyz.com/capitulo/130205/comic-como-criar-villanos-correctamente-20260629-080119336",
+			"date_published": "2026-07-02T20:30:48.000Z"
+		},
+		{
+			"id": "Al caer la luz de la luna [Capítulo 34]",
+			"title": "Al caer la luz de la luna [Capítulo 34]",
+			"url": "https://olympusxyz.com/capitulo/130201/comic-al-caer-la-luz-de-la-luna",
+			"date_published": "2026-07-02T18:37:37.000Z"
+		},
+		{
 			"id": "El Gobernante de la Oscuridad [Capítulo 4]",
 			"title": "El Gobernante de la Oscuridad [Capítulo 4]",
 			"url": "https://olympusxyz.com/capitulo/130199/comic-el-gobernante-de-la-oscuridad",
@@ -2977,30 +3001,6 @@
 			"title": "Crónicas de un Inmortal [Capítulo 15]",
 			"url": "https://olympusxyz.com/capitulo/129505/comic-cronicas-de-un-inmortal-20260615-080102525",
 			"date_published": "2026-06-15T23:32:31.000Z"
-		},
-		{
-			"id": "Inicializando el Sistema de la Secta [Capítulo 42]",
-			"title": "Inicializando el Sistema de la Secta [Capítulo 42]",
-			"url": "https://olympusxyz.com/capitulo/129504/comic-inicializando-el-sistema-de-la-secta-20260615-080053006",
-			"date_published": "2026-06-15T23:32:07.000Z"
-		},
-		{
-			"id": "El principe perezoso se convierte en un genio [Capítulo 146]",
-			"title": "El principe perezoso se convierte en un genio [Capítulo 146]",
-			"url": "https://olympusxyz.com/capitulo/129502/comic-el-principe-perezoso-se-convierte-en-un-genio-20260615-080012380",
-			"date_published": "2026-06-15T23:30:15.000Z"
-		},
-		{
-			"id": "El Mago de Decima Clase [Capítulo 15]",
-			"title": "El Mago de Decima Clase [Capítulo 15]",
-			"url": "https://olympusxyz.com/capitulo/129501/comic-el-mago-de-decima-clase-20260615-080102614",
-			"date_published": "2026-06-15T23:28:23.000Z"
-		},
-		{
-			"id": "el bully de bullies [Capítulo 188]",
-			"title": "el bully de bullies [Capítulo 188]",
-			"url": "https://olympusxyz.com/capitulo/129500/comic-el-bully-de-bullies-20260615-080034366",
-			"date_published": "2026-06-15T23:22:28.000Z"
 		}
 	]
 }
