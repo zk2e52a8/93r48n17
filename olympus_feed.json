@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Tomb Raider King — End Line [Capítulo 6]",
+			"title": "Tomb Raider King — End Line [Capítulo 6]",
+			"url": "https://olympusxyz.com/capitulo/130264/comic-tomb-raider-king-end-line",
+			"date_published": "2026-07-04T16:53:56.000Z"
+		},
+		{
+			"id": "Heroe, regresa [Capítulo 161]",
+			"title": "Heroe, regresa [Capítulo 161]",
+			"url": "https://olympusxyz.com/capitulo/130259/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-07-04T15:05:03.000Z"
+		},
+		{
+			"id": "El legendario prodigio del ducado [Capítulo 55]",
+			"title": "El legendario prodigio del ducado [Capítulo 55]",
+			"url": "https://olympusxyz.com/capitulo/130258/comic-el-legendario-prodigio-del-ducado",
+			"date_published": "2026-07-04T14:58:21.000Z"
+		},
+		{
+			"id": "el pasado oculto del jugador [Capítulo 127]",
+			"title": "el pasado oculto del jugador [Capítulo 127]",
+			"url": "https://olympusxyz.com/capitulo/130257/comic-el-pasado-oculto-del-jugador-20260704-080327529",
+			"date_published": "2026-07-04T14:22:10.000Z"
+		},
+		{
+			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 32]",
+			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 32]",
+			"url": "https://olympusxyz.com/capitulo/130256/comic-el-herrero-que-regreso-para-reparar-todo",
+			"date_published": "2026-07-04T14:09:37.000Z"
+		},
+		{
+			"id": "El Espectro del Desierto Calcinado [Capítulo 26.5]",
+			"title": "El Espectro del Desierto Calcinado [Capítulo 26.5]",
+			"url": "https://olympusxyz.com/capitulo/130255/comic-el-espectro-del-desierto-calcinado",
+			"date_published": "2026-07-04T13:49:37.000Z"
+		},
+		{
 			"id": "Crónicas de un Inmortal [Capítulo 19]",
 			"title": "Crónicas de un Inmortal [Capítulo 19]",
 			"url": "https://olympusxyz.com/capitulo/130254/comic-cronicas-de-un-inmortal-20260704-080349092",
@@ -2965,42 +3001,6 @@
 			"title": "Manual de instrucciones del Reencarnado [Capítulo 189]",
 			"url": "https://olympusxyz.com/capitulo/129553/comic-manual-de-instrucc20-225-l-reencarnado",
 			"date_published": "2026-06-15T23:53:47.000Z"
-		},
-		{
-			"id": "El Regreso del Ranker mas Grande de la Historia [Capítulo 28]",
-			"title": "El Regreso del Ranker mas Grande de la Historia [Capítulo 28]",
-			"url": "https://olympusxyz.com/capitulo/129552/comic-el-regreso-del-ranker-mas-grande-de-la-historia",
-			"date_published": "2026-06-15T23:53:42.000Z"
-		},
-		{
-			"id": "Torre de Dios : Urek Mazino [Capítulo 68]",
-			"title": "Torre de Dios : Urek Mazino [Capítulo 68]",
-			"url": "https://olympusxyz.com/capitulo/129550/comic-torre-de-dios-urek-mazino-20260615-080033690",
-			"date_published": "2026-06-15T23:53:23.000Z"
-		},
-		{
-			"id": "Renacido en el Campo de Batalla Demoníaco [Capítulo 44]",
-			"title": "Renacido en el Campo de Batalla Demoníaco [Capítulo 44]",
-			"url": "https://olympusxyz.com/capitulo/129546/comic-renacido-en-el-campo-de-batalla-demoniaco-20260615-080051375",
-			"date_published": "2026-06-15T23:52:10.000Z"
-		},
-		{
-			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 30.5]",
-			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 30.5]",
-			"url": "https://olympusxyz.com/capitulo/129548/comic-el-herrero-que-regreso-para-reparar-todo",
-			"date_published": "2026-06-15T23:52:04.000Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 140]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 140]",
-			"url": "https://olympusxyz.com/capitulo/129547/comic-el-maestro-de-la-espada-genio-de-la-academia-20260615-080048568",
-			"date_published": "2026-06-15T23:51:26.000Z"
-		},
-		{
-			"id": "El Herrero Genio del Juego [Capítulo 58]",
-			"title": "El Herrero Genio del Juego [Capítulo 58]",
-			"url": "https://olympusxyz.com/capitulo/129544/comic-el-herrero-genio-del-juego",
-			"date_published": "2026-06-15T23:50:37.000Z"
 		}
 	]
 }
