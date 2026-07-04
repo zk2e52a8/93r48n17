@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Manual de Reeducación de Damas Nobles [Capítulo 32]",
+			"title": "Manual de Reeducación de Damas Nobles [Capítulo 32]",
+			"url": "https://olympusxyz.com/capitulo/130282/comic-manual-de-reeducacion-de-damas-nobles-20260704-080346513",
+			"date_published": "2026-07-04T20:32:59.000Z"
+		},
+		{
+			"id": "El Genio Marcial que lo Recuerda Todo [Capítulo 16]",
+			"title": "El Genio Marcial que lo Recuerda Todo [Capítulo 16]",
+			"url": "https://olympusxyz.com/capitulo/130281/comic-el-genio-marcial-que-lo-recuerda-todo-20260704-080350060",
+			"date_published": "2026-07-04T20:05:57.000Z"
+		},
+		{
+			"id": "Tomb Raider King — End Line [Capítulo 15.01]",
+			"title": "Tomb Raider King — End Line [Capítulo 15.01]",
+			"url": "https://olympusxyz.com/capitulo/130276/comic-tomb-raider-king-end-line",
+			"date_published": "2026-07-04T18:08:02.000Z"
+		},
+		{
 			"id": "Tomb Raider King — End Line [Capítulo 6]",
 			"title": "Tomb Raider King — End Line [Capítulo 6]",
 			"url": "https://olympusxyz.com/capitulo/130264/comic-tomb-raider-king-end-line",
@@ -2983,24 +3001,6 @@
 			"title": "Mago prismático genio [Capítulo 80]",
 			"url": "https://olympusxyz.com/capitulo/129557/comic-mago-prismatico-genio-20260615-080030639",
 			"date_published": "2026-06-15T23:56:01.000Z"
-		},
-		{
-			"id": "El jugador que no puede subir de nivel [Capítulo 232]",
-			"title": "El jugador que no puede subir de nivel [Capítulo 232]",
-			"url": "https://olympusxyz.com/capitulo/129551/comic-el-jugador-que-no-puede-subir-de-nivel-20260615-080047552",
-			"date_published": "2026-06-15T23:54:55.000Z"
-		},
-		{
-			"id": "Goblin de nivel 999 [Capítulo 58]",
-			"title": "Goblin de nivel 999 [Capítulo 58]",
-			"url": "https://olympusxyz.com/capitulo/129555/comic-goblin-de-nivel-999-20260615-080033942",
-			"date_published": "2026-06-15T23:54:51.000Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 189]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 189]",
-			"url": "https://olympusxyz.com/capitulo/129553/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2026-06-15T23:53:47.000Z"
 		}
 	]
 }
