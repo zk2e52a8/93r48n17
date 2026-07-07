@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Reencarnado [Capítulo 141]",
+			"title": "Reencarnado [Capítulo 141]",
+			"url": "https://olympusxyz.com/capitulo/130402/comic-reencarnado-20260707-080226368",
+			"date_published": "2026-07-07T17:49:09.000Z"
+		},
+		{
+			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 47]",
+			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 47]",
+			"url": "https://olympusxyz.com/capitulo/130401/comic-el-retorno-del-patriarca-mil-anos-despues",
+			"date_published": "2026-07-07T16:34:49.000Z"
+		},
+		{
+			"id": "Las Heroínas Intentan Matarme [Capítulo 62]",
+			"title": "Las Heroínas Intentan Matarme [Capítulo 62]",
+			"url": "https://olympusxyz.com/capitulo/130400/comic-las-heroinas-intentan-matarme",
+			"date_published": "2026-07-07T15:48:44.000Z"
+		},
+		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 102]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 102]",
+			"url": "https://olympusxyz.com/capitulo/130399/comic-regresion10-05-20250152309",
+			"date_published": "2026-07-07T15:47:17.000Z"
+		},
+		{
 			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 176]",
 			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 176]",
 			"url": "https://olympusxyz.com/capitulo/130398/comic-shirone20-225-el22-infinit015551251524131123",
@@ -2977,30 +3001,6 @@
 			"title": "El mago pastor [Capítulo 24]",
 			"url": "https://olympusxyz.com/capitulo/129644/comic-el-mago-pastor-20260617-080848611",
 			"date_published": "2026-06-16T15:20:37.000Z"
-		},
-		{
-			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 40]",
-			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 40]",
-			"url": "https://olympusxyz.com/capitulo/129643/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
-			"date_published": "2026-06-16T14:13:38.000Z"
-		},
-		{
-			"id": "La luz de Arad: Aquel que camina primero [Capítulo 102]",
-			"title": "La luz de Arad: Aquel que camina primero [Capítulo 102]",
-			"url": "https://olympusxyz.com/capitulo/129642/comic-la-luz-de-arad-aquel-que-camina-primero-20260617-080453914",
-			"date_published": "2026-06-16T14:12:31.000Z"
-		},
-		{
-			"id": "La regresión 100 del jugador de nivel máximo [Capítulo 87]",
-			"title": "La regresión 100 del jugador de nivel máximo [Capítulo 87]",
-			"url": "https://olympusxyz.com/capitulo/129641/comic-la-r20-225-egresion-100-del-jugador-de-nivel-maximo13424",
-			"date_published": "2026-06-16T14:05:11.000Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 135]",
-			"title": "El Indomable Rey Marcial [Capítulo 135]",
-			"url": "https://olympusxyz.com/capitulo/129640/comic-el-indomable-rey-marcial-20260617-080437458",
-			"date_published": "2026-06-16T13:54:58.000Z"
 		}
 	]
 }
