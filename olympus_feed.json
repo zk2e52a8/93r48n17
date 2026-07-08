@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mago Devorador de Talentos [Capítulo 135]",
+			"title": "El Mago Devorador de Talentos [Capítulo 135]",
+			"url": "https://olympusxyz.com/capitulo/130426/comic-el-mago-20-225-devorador-de-talentos13424",
+			"date_published": "2026-07-08T16:48:26.000Z"
+		},
+		{
 			"id": "Pick me up, Gacha Infinito [Capítulo 209]",
 			"title": "Pick me up, Gacha Infinito [Capítulo 209]",
 			"url": "https://olympusxyz.com/capitulo/130425/comic-pick-me-up-gacha-infinito-20260708-080304155",
@@ -2995,12 +3001,6 @@
 			"title": "Crónicas de un Inmortal [Capítulo 16]",
 			"url": "https://olympusxyz.com/capitulo/129667/comic-cronicas-de-un-inmortal-20260618-080928881",
 			"date_published": "2026-06-17T06:20:04.000Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 190]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 190]",
-			"url": "https://olympusxyz.com/capitulo/129666/comic-manual-de-instrucc20-225-l-reencarnado",
-			"date_published": "2026-06-17T03:56:53.000Z"
 		}
 	]
 }
