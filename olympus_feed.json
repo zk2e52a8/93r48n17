@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Come y crece [Capítulo 62]",
+			"title": "Come y crece [Capítulo 62]",
+			"url": "https://olympusxyz.com/capitulo/130420/comic-come-y-crece-20260707-080306500",
+			"date_published": "2026-07-08T03:11:45.000Z"
+		},
+		{
 			"id": "El Chetado (Overgeared) [Capítulo 329]",
 			"title": "El Chetado (Overgeared) [Capítulo 329]",
 			"url": "https://olympusxyz.com/capitulo/130418/comic-27-220-225-565464565465",
@@ -2995,12 +3001,6 @@
 			"title": "El Psicópata del Murim [Capítulo 31]",
 			"url": "https://olympusxyz.com/capitulo/129662/comic-el-psicopata-del-murim-20260617-080832310",
 			"date_published": "2026-06-17T01:18:14.000Z"
-		},
-		{
-			"id": "El Héroe Regresa a la Academia [Capítulo 56]",
-			"title": "El Héroe Regresa a la Academia [Capítulo 56]",
-			"url": "https://olympusxyz.com/capitulo/129433/comic-el-heroe-regresa-a-la-academia-20260617-080824575",
-			"date_published": "2026-06-17T01:09:18.000Z"
 		}
 	]
 }
