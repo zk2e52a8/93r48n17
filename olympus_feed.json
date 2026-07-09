@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Resurrección solitaria [Capítulo 100]",
+			"title": "Resurrección solitaria [Capítulo 100]",
+			"url": "https://olympusxyz.com/capitulo/130457/comic-resurreccion-solitaria-20260708-080233345",
+			"date_published": "2026-07-09T07:20:45.000Z"
+		},
+		{
+			"id": "Crónicas de un Inmortal [Capítulo 20]",
+			"title": "Crónicas de un Inmortal [Capítulo 20]",
+			"url": "https://olympusxyz.com/capitulo/130454/comic-cronicas-de-un-inmortal-20260708-080324071",
+			"date_published": "2026-07-09T03:59:06.000Z"
+		},
+		{
 			"id": "Roman Dmitry [Capítulo 208]",
 			"title": "Roman Dmitry [Capítulo 208]",
 			"url": "https://olympusxyz.com/capitulo/130453/comic-roman-dmitry-20260708-080257416",
@@ -2989,18 +3001,6 @@
 			"title": "Mata Villanos [Capítulo 63]",
 			"url": "https://olympusxyz.com/capitulo/129693/comic-mata-villanos-20260618-080559604",
 			"date_published": "2026-06-18T00:47:35.000Z"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 169]",
-			"title": "El Devoto Caballero [Capítulo 169]",
-			"url": "https://olympusxyz.com/capitulo/129692/comic-el-devoto-caballero-20260618-080739943",
-			"date_published": "2026-06-18T00:18:49.000Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 84]",
-			"title": "El soberano del hogar [Capítulo 84]",
-			"url": "https://olympusxyz.com/capitulo/129691/comic-el-soberano-del-hogar-20260618-080552498",
-			"date_published": "2026-06-18T00:02:07.000Z"
 		}
 	]
 }
