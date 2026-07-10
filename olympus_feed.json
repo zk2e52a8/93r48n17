@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mestizo [Capítulo 55]",
+			"title": "Mestizo [Capítulo 55]",
+			"url": "https://olympusxyz.com/capitulo/130493/comic-mestizo",
+			"date_published": "2026-07-10T17:13:34.000Z"
+		},
+		{
+			"id": "El Séptimo Príncipe Quiere Escapar [Capítulo 12]",
+			"title": "El Séptimo Príncipe Quiere Escapar [Capítulo 12]",
+			"url": "https://olympusxyz.com/capitulo/130492/comic-el-septimo-principe-quiere-escapar",
+			"date_published": "2026-07-10T16:55:04.000Z"
+		},
+		{
+			"id": "Un Nigromante en la familia de espadachines [Capítulo 17]",
+			"title": "Un Nigromante en la familia de espadachines [Capítulo 17]",
+			"url": "https://olympusxyz.com/capitulo/130491/comic-un-nigromante-en-la-familia-de-espadachines-20260710-110147974",
+			"date_published": "2026-07-10T15:38:48.000Z"
+		},
+		{
+			"id": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 25]",
+			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 25]",
+			"url": "https://olympusxyz.com/capitulo/130490/comic-esclavo-corporativo-en-una-historia-de-fantasmas",
+			"date_published": "2026-07-10T15:16:22.000Z"
+		},
+		{
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 84]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 84]",
+			"url": "https://olympusxyz.com/capitulo/130489/comic-voy-a-an10-05-2025-tierra",
+			"date_published": "2026-07-10T15:06:24.000Z"
+		},
+		{
 			"id": "La voluntad de supervivencia del villano [Capítulo 59]",
 			"title": "La voluntad de supervivencia del villano [Capítulo 59]",
 			"url": "https://olympusxyz.com/capitulo/130488/comic-la-volunt10-05-2025-del-villano",
@@ -2971,36 +3001,6 @@
 			"title": "Jugador de nivel máximo [Capítulo 142]",
 			"url": "https://olympusxyz.com/capitulo/129755/comic-jug20-225-olympus513424",
 			"date_published": "2026-06-19T02:09:51.000Z"
-		},
-		{
-			"id": "Un hombre moderno que transmigró al mundo murim [Capítulo 181]",
-			"title": "Un hombre moderno que transmigró al mundo murim [Capítulo 181]",
-			"url": "https://olympusxyz.com/capitulo/129701/comic-un-hombre-moderno-que-transmigro-al-mundo-murim-20260619-080736702",
-			"date_published": "2026-06-19T01:28:31.000Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 35]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 35]",
-			"url": "https://olympusxyz.com/capitulo/129753/comic-el-rey-demonio-abrumado-por-heroes-20260619-080711305",
-			"date_published": "2026-06-19T00:25:30.000Z"
-		},
-		{
-			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 167]",
-			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 167]",
-			"url": "https://olympusxyz.com/capitulo/129711/comic-dis-m10-05-2025arcial-2013424",
-			"date_published": "2026-06-18T23:53:31.000Z"
-		},
-		{
-			"id": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 6]",
-			"title": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 6]",
-			"url": "https://olympusxyz.com/capitulo/129750/comic-el-camino-a-la-divinidad-comienza-con-esqueletos",
-			"date_published": "2026-06-18T22:45:45.000Z"
-		},
-		{
-			"id": "Nueva Cara [Capítulo 612]",
-			"title": "Nueva Cara [Capítulo 612]",
-			"url": "https://olympusxyz.com/capitulo/129748/comic-nueva-cara-20260619-080546757",
-			"date_published": "2026-06-18T22:14:03.000Z"
 		}
 	]
 }
