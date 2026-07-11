@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Pintor que Dibuja Mazmorras [Capítulo 11]",
+			"title": "El Pintor que Dibuja Mazmorras [Capítulo 11]",
+			"url": "https://olympusxyz.com/capitulo/130526/comic-el-pintor-que-dibuja-mazmorras",
+			"date_published": "2026-07-11T16:38:14.000Z"
+		},
+		{
+			"id": "Heroe, regresa [Capítulo 162]",
+			"title": "Heroe, regresa [Capítulo 162]",
+			"url": "https://olympusxyz.com/capitulo/130517/comic-dragon-20-225-y-heroe13424",
+			"date_published": "2026-07-11T14:52:20.000Z"
+		},
+		{
+			"id": "El lancero genio inmortal [Capítulo 24]",
+			"title": "El lancero genio inmortal [Capítulo 24]",
+			"url": "https://olympusxyz.com/capitulo/130516/comic-el-lancero-genio-inmortal",
+			"date_published": "2026-07-11T14:45:39.000Z"
+		},
+		{
+			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 33]",
+			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 33]",
+			"url": "https://olympusxyz.com/capitulo/130514/comic-el-herrero-que-regreso-para-reparar-todo",
+			"date_published": "2026-07-11T13:46:44.000Z"
+		},
+		{
 			"id": "El Dios Guerrero del Pay-to-Win [Capítulo 17]",
 			"title": "El Dios Guerrero del Pay-to-Win [Capítulo 17]",
 			"url": "https://olympusxyz.com/capitulo/129914/comic-el-dios-guerrero-del-pay-to-win-20260711-113834011",
@@ -2977,30 +3001,6 @@
 			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 22]",
 			"url": "https://olympusxyz.com/capitulo/129782/comic-esclavo-corporativo-en-una-historia-de-fantasmas",
 			"date_published": "2026-06-20T15:10:21.000Z"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 159]",
-			"title": "Heroe, regresa [Capítulo 159]",
-			"url": "https://olympusxyz.com/capitulo/129781/comic-dragon-20-225-y-heroe13424",
-			"date_published": "2026-06-20T15:01:16.000Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 53]",
-			"title": "Mestizo [Capítulo 53]",
-			"url": "https://olympusxyz.com/capitulo/129777/comic-mestizo",
-			"date_published": "2026-06-20T13:46:36.000Z"
-		},
-		{
-			"id": "El Indomable Rey Marcial [Capítulo 136]",
-			"title": "El Indomable Rey Marcial [Capítulo 136]",
-			"url": "https://olympusxyz.com/capitulo/129776/comic-el-indomable-rey-marcial-20260619-080352057",
-			"date_published": "2026-06-20T13:36:25.000Z"
-		},
-		{
-			"id": "Asesino Pietro (Viejo sabroso)| [Capítulo 135.2]",
-			"title": "Asesino Pietro (Viejo sabroso)| [Capítulo 135.2]",
-			"url": "https://olympusxyz.com/capitulo/129775/comic-asesino-pietro-viejo-sabroso-20260619-080309615",
-			"date_published": "2026-06-20T13:32:25.000Z"
 		}
 	]
 }
