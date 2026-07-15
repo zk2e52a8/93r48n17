@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Roman Dmitry [Capítulo 209.05]",
+			"title": "Roman Dmitry [Capítulo 209.05]",
+			"url": "https://olympusxyz.com/capitulo/130700/comic-roman-dmitry-20260714-110204043",
+			"date_published": "2026-07-15T03:33:30.000Z"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 57]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 57]",
 			"url": "https://olympusxyz.com/capitulo/130698/comic-el-regreso-del-espadachin-oscuro",
@@ -2995,12 +3001,6 @@
 			"title": "Regresé con el poder del Rey [Capítulo 144]",
 			"url": "https://olympusxyz.com/capitulo/129935/comic-regrese-con-el-poder-del-rey-20260624-080357794",
 			"date_published": "2026-06-23T14:16:26.000Z"
-		},
-		{
-			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 41]",
-			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 41]",
-			"url": "https://olympusxyz.com/capitulo/129934/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
-			"date_published": "2026-06-23T14:06:32.000Z"
 		}
 	]
 }
