@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas de un Inmortal [Capítulo 21]",
+			"title": "Crónicas de un Inmortal [Capítulo 21]",
+			"url": "https://olympusxyz.com/capitulo/130737/comic-cronicas-de-un-inmortal-20260715-110424832",
+			"date_published": "2026-07-16T06:23:34.000Z"
+		},
+		{
+			"id": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 3]",
+			"title": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 3]",
+			"url": "https://olympusxyz.com/capitulo/130736/comic-es-malo-que-el-personaje-principal-sea-un-roleplayer",
+			"date_published": "2026-07-16T03:44:48.000Z"
+		},
+		{
 			"id": "¡La Tanque de Clase C que regresó no muere! [Capítulo 63]",
 			"title": "¡La Tanque de Clase C que regresó no muere! [Capítulo 63]",
 			"url": "https://olympusxyz.com/capitulo/130731/comic-la-tanque-de-clase-c-que-regreso-no-muere-20260715-110424213",
@@ -2989,18 +3001,6 @@
 			"title": "El Despiadado Demonio Celestial [Capítulo 318]",
 			"url": "https://olympusxyz.com/capitulo/129971/comic-el-despiadado-demonio-celestial-20260625-080531783",
 			"date_published": "2026-06-24T18:01:04.000Z"
-		},
-		{
-			"id": "Mi Vida Cuidando Dragonas [Capítulo 48]",
-			"title": "Mi Vida Cuidando Dragonas [Capítulo 48]",
-			"url": "https://olympusxyz.com/capitulo/129970/comic-mi-vida-cuidando-dragonas-20260625-080703290",
-			"date_published": "2026-06-24T17:50:23.000Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 94]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 94]",
-			"url": "https://olympusxyz.com/capitulo/129969/comic-las-conspiraciones-del-mercenario-regresado-20260625-080446308",
-			"date_published": "2026-06-24T17:49:31.000Z"
 		}
 	]
 }
