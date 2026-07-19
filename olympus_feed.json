@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El soberano del hogar [Capítulo 89]",
+			"title": "El soberano del hogar [Capítulo 89]",
+			"url": "https://olympusxyz.com/capitulo/130833/comic-el-soberano-del-hogar-20260718-110242370",
+			"date_published": "2026-07-19T05:52:33.000Z"
+		},
+		{
+			"id": "Odisea en la Mazmorra [Capítulo 161]",
+			"title": "Odisea en la Mazmorra [Capítulo 161]",
+			"url": "https://olympusxyz.com/capitulo/130832/comic-prota-m20-225-ene-su-laberinto13424",
+			"date_published": "2026-07-19T05:03:06.000Z"
+		},
+		{
+			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 41]",
+			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 41]",
+			"url": "https://olympusxyz.com/capitulo/130831/comic-el-mercenario-que-reencarno-entre-aristocratas-20260718-110316764",
+			"date_published": "2026-07-19T03:34:06.000Z"
+		},
+		{
 			"id": "El gran demonio celestial soberano [Capítulo 57]",
 			"title": "El gran demonio celestial soberano [Capítulo 57]",
 			"url": "https://olympusxyz.com/capitulo/130830/comic-el-gran-demonio-celestial-soberano",
@@ -2983,24 +3001,6 @@
 			"title": "Tomb Raider King — End Line [Capítulo 1]",
 			"url": "https://olympusxyz.com/capitulo/130078/comic-tomb-raider-king-end-line",
 			"date_published": "2026-06-28T04:39:21.000Z"
-		},
-		{
-			"id": "Regresé con el poder del Rey [Capítulo 149]",
-			"title": "Regresé con el poder del Rey [Capítulo 149]",
-			"url": "https://olympusxyz.com/capitulo/130077/comic-regrese-con-el-poder-del-rey-20260628-080135562",
-			"date_published": "2026-06-28T03:49:03.000Z"
-		},
-		{
-			"id": "Los Breakers [Capítulo 90]",
-			"title": "Los Breakers [Capítulo 90]",
-			"url": "https://olympusxyz.com/capitulo/130072/comic-los-breakers-20260628-080318681",
-			"date_published": "2026-06-28T03:45:25.000Z"
-		},
-		{
-			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 64]",
-			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 64]",
-			"url": "https://olympusxyz.com/capitulo/130058/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
-			"date_published": "2026-06-28T03:37:45.000Z"
 		}
 	]
 }
