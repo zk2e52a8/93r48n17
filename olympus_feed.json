@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Guia de supervivencia del extra de la academia [Capítulo 115]",
+			"title": "Guia de supervivencia del extra de la academia [Capítulo 115]",
+			"url": "https://olympusxyz.com/capitulo/130895/comic-guia-de-supervivencia-del-extra-de-la-academia-20260719-110229403",
+			"date_published": "2026-07-20T13:29:47.000Z"
+		},
+		{
+			"id": "Soldado Esqueleto [Capítulo 377]",
+			"title": "Soldado Esqueleto [Capítulo 377]",
+			"url": "https://olympusxyz.com/capitulo/130894/comic-soldado-esqueleto-20260719-110253299",
+			"date_published": "2026-07-20T13:16:08.000Z"
+		},
+		{
+			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 98]",
+			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 98]",
+			"url": "https://olympusxyz.com/capitulo/129817/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260719-110243121",
+			"date_published": "2026-07-20T13:02:07.000Z"
+		},
+		{
 			"id": "El retorno del mago oscuro del alistamiento [Capítulo 80]",
 			"title": "El retorno del mago oscuro del alistamiento [Capítulo 80]",
 			"url": "https://olympusxyz.com/capitulo/130891/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260719-110301260",
@@ -259,12 +277,6 @@
 			"title": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 22]",
 			"url": "https://olympusxyz.com/capitulo/130825/comic-es-malo-que-el-personaje-principal-sea-un-roleplayer",
 			"date_published": "2026-07-18T23:31:45.000Z"
-		},
-		{
-			"id": "Guia de supervivencia del extra de la academia [Capítulo 115]",
-			"title": "Guia de supervivencia del extra de la academia [Capítulo 115]",
-			"url": "https://olympusxyz.com/capitulo/130824/comic-guia-de-supervivencia-del-extra-de-la-academia-20260719-110229403",
-			"date_published": "2026-07-18T22:59:44.000Z"
 		},
 		{
 			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 338]",
@@ -2989,18 +3001,6 @@
 			"title": "El Rebelde de la Noble Familia Tiránica [Capítulo 29]",
 			"url": "https://olympusxyz.com/capitulo/130131/comic-el-rebelde-de-la-noble-familia-tiranica",
 			"date_published": "2026-06-29T16:23:52.000Z"
-		},
-		{
-			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 122]",
-			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 122]",
-			"url": "https://olympusxyz.com/capitulo/130130/comic-el-dios-marcial-que-regreso-al-nivel-2-20260629-080112744",
-			"date_published": "2026-06-29T16:16:27.000Z"
-		},
-		{
-			"id": "El extra de la novela (remake) [Capítulo 162.5]",
-			"title": "El extra de la novela (remake) [Capítulo 162.5]",
-			"url": "https://olympusxyz.com/capitulo/130129/comic-el-ext20-225-ra-de-la-novela-remake13424",
-			"date_published": "2026-06-29T13:33:34.000Z"
 		}
 	]
 }
