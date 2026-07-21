@@ -3,21 +3,33 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Mago Oscuro (Black Haze remake) [Capítulo 83.5]",
+			"title": "Mago Oscuro (Black Haze remake) [Capítulo 83.5]",
+			"url": "https://olympusxyz.com/capitulo/130920/comic-mago-oscuro-black-haze-remake",
+			"date_published": "2026-07-21T13:15:19.000Z"
+		},
+		{
+			"id": "El Sentido Absoluto de las Espadas [Capítulo 188]",
+			"title": "El Sentido Absoluto de las Espadas [Capítulo 188]",
+			"url": "https://olympusxyz.com/capitulo/129989/comic-el-sentido-absoluto-de-las-espadas-20260721-110211368",
+			"date_published": "2026-07-21T13:02:16.000Z"
+		},
+		{
 			"id": "Crónicas de un Inmortal [Capítulo 22]",
 			"title": "Crónicas de un Inmortal [Capítulo 22]",
-			"url": "https://olympusxyz.com/capitulo/130919/comic-cronicas-de-un-inmortal-20260719-110326658",
+			"url": "https://olympusxyz.com/capitulo/130919/comic-cronicas-de-un-inmortal-20260721-110302777",
 			"date_published": "2026-07-21T04:20:28.000Z"
 		},
 		{
 			"id": "Soldado Esqueleto [Capítulo 380]",
 			"title": "Soldado Esqueleto [Capítulo 380]",
-			"url": "https://olympusxyz.com/capitulo/130915/comic-soldado-esqueleto-20260719-110253299",
+			"url": "https://olympusxyz.com/capitulo/130915/comic-soldado-esqueleto-20260721-110234176",
 			"date_published": "2026-07-21T02:52:06.000Z"
 		},
 		{
 			"id": "Villano antihéroe [Capítulo 239]",
 			"title": "Villano antihéroe [Capítulo 239]",
-			"url": "https://olympusxyz.com/capitulo/130914/comic-villano-antiheroe-20260719-110259856",
+			"url": "https://olympusxyz.com/capitulo/130914/comic-villano-antiheroe-20260721-110239938",
 			"date_published": "2026-07-21T02:31:15.000Z"
 		},
 		{
@@ -29,7 +41,7 @@
 		{
 			"id": "Regresión absoluta [Capítulo 111]",
 			"title": "Regresión absoluta [Capítulo 111]",
-			"url": "https://olympusxyz.com/capitulo/130910/comic-regresion-absoluta-20260719-110237085",
+			"url": "https://olympusxyz.com/capitulo/130910/comic-regresion-absoluta-20260721-110220052",
 			"date_published": "2026-07-20T23:42:59.000Z"
 		},
 		{
@@ -41,7 +53,7 @@
 		{
 			"id": "Las crónicas del clan Tang [Capítulo 51]",
 			"title": "Las crónicas del clan Tang [Capítulo 51]",
-			"url": "https://olympusxyz.com/capitulo/130412/comic-las-cronicas-del-clan-tang-20260719-110311032",
+			"url": "https://olympusxyz.com/capitulo/130412/comic-las-cronicas-del-clan-tang-20260721-110249088",
 			"date_published": "2026-07-20T21:59:21.000Z"
 		},
 		{
@@ -53,7 +65,7 @@
 		{
 			"id": "entrenador de clases [Capítulo 174]",
 			"title": "entrenador de clases [Capítulo 174]",
-			"url": "https://olympusxyz.com/capitulo/130908/comic-entrenador-de-clases-20260719-110248889",
+			"url": "https://olympusxyz.com/capitulo/130908/comic-entrenador-de-clases-20260721-110229879",
 			"date_published": "2026-07-20T18:50:45.000Z"
 		},
 		{
@@ -65,7 +77,7 @@
 		{
 			"id": "El mago pastor [Capítulo 28]",
 			"title": "El mago pastor [Capítulo 28]",
-			"url": "https://olympusxyz.com/capitulo/130906/comic-el-mago-pastor-20260719-110325069",
+			"url": "https://olympusxyz.com/capitulo/130906/comic-el-mago-pastor-20260721-110301284",
 			"date_published": "2026-07-20T16:54:47.000Z"
 		},
 		{
@@ -83,7 +95,7 @@
 		{
 			"id": "El Dios Marcial que Regresó al nivel 2 [Capítulo 125]",
 			"title": "El Dios Marcial que Regresó al nivel 2 [Capítulo 125]",
-			"url": "https://olympusxyz.com/capitulo/130903/comic-el-dios-marcial-que-regreso-al-nivel-2-20260719-110307316",
+			"url": "https://olympusxyz.com/capitulo/130903/comic-el-dios-marcial-que-regreso-al-nivel-2-20260721-110246078",
 			"date_published": "2026-07-20T16:05:49.000Z"
 		},
 		{
@@ -101,7 +113,7 @@
 		{
 			"id": "El Mago de Decima Clase [Capítulo 20]",
 			"title": "El Mago de Decima Clase [Capítulo 20]",
-			"url": "https://olympusxyz.com/capitulo/130899/comic-el-mago-de-decima-clase-20260719-110326950",
+			"url": "https://olympusxyz.com/capitulo/130899/comic-el-mago-de-decima-clase-20260721-110302935",
 			"date_published": "2026-07-20T15:06:49.000Z"
 		},
 		{
@@ -125,7 +137,7 @@
 		{
 			"id": "Guia de supervivencia del extra de la academia [Capítulo 115]",
 			"title": "Guia de supervivencia del extra de la academia [Capítulo 115]",
-			"url": "https://olympusxyz.com/capitulo/130895/comic-guia-de-supervivencia-del-extra-de-la-academia-20260719-110229403",
+			"url": "https://olympusxyz.com/capitulo/130895/comic-guia-de-supervivencia-del-extra-de-la-academia-20260721-110212923",
 			"date_published": "2026-07-20T13:29:47.000Z"
 		},
 		{
@@ -137,19 +149,19 @@
 		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 98]",
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 98]",
-			"url": "https://olympusxyz.com/capitulo/129817/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260719-110243121",
+			"url": "https://olympusxyz.com/capitulo/129817/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20260721-110224985",
 			"date_published": "2026-07-20T13:02:07.000Z"
 		},
 		{
 			"id": "El retorno del mago oscuro del alistamiento [Capítulo 80]",
 			"title": "El retorno del mago oscuro del alistamiento [Capítulo 80]",
-			"url": "https://olympusxyz.com/capitulo/130891/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260719-110301260",
+			"url": "https://olympusxyz.com/capitulo/130891/comic-el-retorno-del-mago-oscuro-del-alistamiento-20260721-110240398",
 			"date_published": "2026-07-20T03:24:08.000Z"
 		},
 		{
 			"id": "Stream del Arquero Genio [Capítulo 102]",
 			"title": "Stream del Arquero Genio [Capítulo 102]",
-			"url": "https://olympusxyz.com/capitulo/130888/comic-stream-del-arquero-genio-20260719-110313029",
+			"url": "https://olympusxyz.com/capitulo/130888/comic-stream-del-arquero-genio-20260721-110250956",
 			"date_published": "2026-07-20T03:00:03.000Z"
 		},
 		{
@@ -167,7 +179,7 @@
 		{
 			"id": "El Regreso del Maestro del Infierno [Capítulo 59]",
 			"title": "El Regreso del Maestro del Infierno [Capítulo 59]",
-			"url": "https://olympusxyz.com/capitulo/130885/comic-el-regreso-del-maestro-del-infierno-20260719-110311374",
+			"url": "https://olympusxyz.com/capitulo/130885/comic-el-regreso-del-maestro-del-infierno-20260721-110249428",
 			"date_published": "2026-07-20T02:20:53.000Z"
 		},
 		{
@@ -2989,18 +3001,6 @@
 			"title": "Mago Oscuro (Black Haze remake) [Capítulo 81]",
 			"url": "https://olympusxyz.com/capitulo/130156/comic-mago-oscuro-black-haze-remake",
 			"date_published": "2026-06-30T14:54:54.000Z"
-		},
-		{
-			"id": "La regresión 100 del jugador de nivel máximo [Capítulo 89]",
-			"title": "La regresión 100 del jugador de nivel máximo [Capítulo 89]",
-			"url": "https://olympusxyz.com/capitulo/130155/comic-la-r20-225-egresion-100-del-jugador-de-nivel-maximo13424",
-			"date_published": "2026-06-30T14:47:10.000Z"
-		},
-		{
-			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 42]",
-			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 42]",
-			"url": "https://olympusxyz.com/capitulo/130154/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
-			"date_published": "2026-06-30T14:14:28.000Z"
 		}
 	]
 }
