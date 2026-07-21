@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 380]",
+			"title": "Soldado Esqueleto [Capítulo 380]",
+			"url": "https://olympusxyz.com/capitulo/130915/comic-soldado-esqueleto-20260719-110253299",
+			"date_published": "2026-07-21T02:52:06.000Z"
+		},
+		{
+			"id": "Villano antihéroe [Capítulo 239]",
+			"title": "Villano antihéroe [Capítulo 239]",
+			"url": "https://olympusxyz.com/capitulo/130914/comic-villano-antiheroe-20260719-110259856",
+			"date_published": "2026-07-21T02:31:15.000Z"
+		},
+		{
+			"id": "Goblin Inc. [Capítulo 5]",
+			"title": "Goblin Inc. [Capítulo 5]",
+			"url": "https://olympusxyz.com/capitulo/130912/comic-goblin-inc",
+			"date_published": "2026-07-21T01:10:21.000Z"
+		},
+		{
+			"id": "Regresión absoluta [Capítulo 111]",
+			"title": "Regresión absoluta [Capítulo 111]",
+			"url": "https://olympusxyz.com/capitulo/130910/comic-regresion-absoluta-20260719-110237085",
+			"date_published": "2026-07-20T23:42:59.000Z"
+		},
+		{
+			"id": "El amo de la plaga [Capítulo 124]",
+			"title": "El amo de la plaga [Capítulo 124]",
+			"url": "https://olympusxyz.com/capitulo/130428/comic-el-a10-05-2025mo-de-la-plaga",
+			"date_published": "2026-07-20T23:34:21.000Z"
+		},
+		{
+			"id": "Las crónicas del clan Tang [Capítulo 51]",
+			"title": "Las crónicas del clan Tang [Capítulo 51]",
+			"url": "https://olympusxyz.com/capitulo/130412/comic-las-cronicas-del-clan-tang-20260719-110311032",
+			"date_published": "2026-07-20T21:59:21.000Z"
+		},
+		{
 			"id": "Registros del Erudito Espadachín [Capítulo 207]",
 			"title": "Registros del Erudito Espadachín [Capítulo 207]",
 			"url": "https://olympusxyz.com/capitulo/130471/comic-10-05-2025ito-espadachin5324",
@@ -2965,42 +3001,6 @@
 			"title": "El soberano del hogar [Capítulo 86]",
 			"url": "https://olympusxyz.com/capitulo/130153/comic-el-soberano-del-hogar-20260629-080047130",
 			"date_published": "2026-06-30T09:30:53.000Z"
-		},
-		{
-			"id": "Reencarnación del Rey del Puño [Capítulo 52]",
-			"title": "Reencarnación del Rey del Puño [Capítulo 52]",
-			"url": "https://olympusxyz.com/capitulo/130152/comic-reencarnacion-del-rey-del-puno-20260629-080114958",
-			"date_published": "2026-06-30T03:59:39.000Z"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 171]",
-			"title": "El Devoto Caballero [Capítulo 171]",
-			"url": "https://olympusxyz.com/capitulo/130151/comic-el-devoto-caballero-20260629-080109809",
-			"date_published": "2026-06-30T02:53:14.000Z"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 236]",
-			"title": "Villano antihéroe [Capítulo 236]",
-			"url": "https://olympusxyz.com/capitulo/130150/comic-villano-antiheroe-20260629-080105353",
-			"date_published": "2026-06-30T02:43:41.000Z"
-		},
-		{
-			"id": "Regresión absoluta [Capítulo 108]",
-			"title": "Regresión absoluta [Capítulo 108]",
-			"url": "https://olympusxyz.com/capitulo/130149/comic-regresion-absoluta-20260629-080041161",
-			"date_published": "2026-06-30T01:57:24.000Z"
-		},
-		{
-			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 241]",
-			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 241]",
-			"url": "https://olympusxyz.com/capitulo/130148/comic-el-mundo-despues-del-fin-20260629-080025160",
-			"date_published": "2026-06-30T01:26:48.000Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 119]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 119]",
-			"url": "https://olympusxyz.com/capitulo/130147/comic-el-genio-entrenador-de-artes-marciales-20260629-080038590",
-			"date_published": "2026-06-30T01:05:59.000Z"
 		}
 	]
 }
