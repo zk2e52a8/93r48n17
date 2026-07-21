@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas de un Inmortal [Capítulo 22]",
+			"title": "Crónicas de un Inmortal [Capítulo 22]",
+			"url": "https://olympusxyz.com/capitulo/130919/comic-cronicas-de-un-inmortal-20260719-110326658",
+			"date_published": "2026-07-21T04:20:28.000Z"
+		},
+		{
 			"id": "Soldado Esqueleto [Capítulo 380]",
 			"title": "Soldado Esqueleto [Capítulo 380]",
 			"url": "https://olympusxyz.com/capitulo/130915/comic-soldado-esqueleto-20260719-110253299",
@@ -2995,12 +3001,6 @@
 			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 42]",
 			"url": "https://olympusxyz.com/capitulo/130154/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
 			"date_published": "2026-06-30T14:14:28.000Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 86]",
-			"title": "El soberano del hogar [Capítulo 86]",
-			"url": "https://olympusxyz.com/capitulo/130153/comic-el-soberano-del-hogar-20260629-080047130",
-			"date_published": "2026-06-30T09:30:53.000Z"
 		}
 	]
 }
