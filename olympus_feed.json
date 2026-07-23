@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador de nivel máximo [Capítulo 146]",
+			"title": "Jugador de nivel máximo [Capítulo 146]",
+			"url": "https://olympusxyz.com/capitulo/130994/comic-jug20-225-olympus513424",
+			"date_published": "2026-07-23T08:20:30.000Z"
+		},
+		{
 			"id": "Rey usurero de Murim [Capítulo 11]",
 			"title": "Rey usurero de Murim [Capítulo 11]",
 			"url": "https://olympusxyz.com/capitulo/130990/comic-rey-usurero-de-murim",
@@ -2995,12 +3001,6 @@
 			"title": "El Séptimo Príncipe Quiere Escapar [Capítulo 11]",
 			"url": "https://olympusxyz.com/capitulo/130224/comic-el-septimo-principe-quiere-escapar",
 			"date_published": "2026-07-03T02:25:29.000Z"
-		},
-		{
-			"id": "El Gobernante de la Oscuridad [Capítulo 20]",
-			"title": "El Gobernante de la Oscuridad [Capítulo 20]",
-			"url": "https://olympusxyz.com/capitulo/130222/comic-el-gobernante-de-la-oscuridad",
-			"date_published": "2026-07-03T01:22:55.000Z"
 		}
 	]
 }
