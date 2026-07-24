@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Soldado Esqueleto [Capítulo 381]",
+			"title": "Soldado Esqueleto [Capítulo 381]",
+			"url": "https://olympusxyz.com/capitulo/131033/comic-soldado-esqueleto-20260723-110141664",
+			"date_published": "2026-07-24T07:24:42.000Z"
+		},
+		{
 			"id": "Un Nigromante en la familia de espadachines [Capítulo 19]",
 			"title": "Un Nigromante en la familia de espadachines [Capítulo 19]",
 			"url": "https://olympusxyz.com/capitulo/131031/comic-un-nigromante-en-la-familia-de-espadachines-20260723-110211844",
@@ -2995,12 +3001,6 @@
 			"title": "El Resucitado no Puede Morir [Capítulo 29]",
 			"url": "https://olympusxyz.com/capitulo/130284/comic-el-resucitado-no-puede-morir-20260705-080450001",
 			"date_published": "2026-07-04T21:57:31.000Z"
-		},
-		{
-			"id": "Manual de Reeducación de Damas Nobles [Capítulo 32]",
-			"title": "Manual de Reeducación de Damas Nobles [Capítulo 32]",
-			"url": "https://olympusxyz.com/capitulo/130282/comic-manual-de-reeducacion-de-damas-nobles-20260705-080447563",
-			"date_published": "2026-07-04T20:32:59.000Z"
 		}
 	]
 }
