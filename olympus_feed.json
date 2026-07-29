@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 47]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 47]",
+			"url": "https://olympusxyz.com/capitulo/131211/comic-el-ascenso-del-caballero-errante",
+			"date_published": "2026-07-29T06:59:27.000Z"
+		},
+		{
 			"id": "Manual de instrucciones del Reencarnado [Capítulo 196]",
 			"title": "Manual de instrucciones del Reencarnado [Capítulo 196]",
 			"url": "https://olympusxyz.com/capitulo/131209/comic-manual-de-instrucc20-225-l-reencarnado",
@@ -2995,12 +3001,6 @@
 			"title": "Sangre Maldita [Capítulo 93]",
 			"url": "https://olympusxyz.com/capitulo/130478/comic-sangre-maldita-20260711-113751043",
 			"date_published": "2026-07-10T00:42:27.000Z"
-		},
-		{
-			"id": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 9]",
-			"title": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 9]",
-			"url": "https://olympusxyz.com/capitulo/130476/comic-el-camino-a-la-divinidad-comienza-con-esqueletos",
-			"date_published": "2026-07-09T23:51:31.000Z"
 		}
 	]
 }
