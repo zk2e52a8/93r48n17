@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Dios Demonio [Capítulo 43]",
+			"title": "El Dios Demonio [Capítulo 43]",
+			"url": "https://olympusxyz.com/capitulo/131500/comic-el-dios-demonio",
+			"date_published": "2026-08-05T15:49:42.000Z"
+		},
+		{
+			"id": "Antiguo Supremo [Capítulo 9]",
+			"title": "Antiguo Supremo [Capítulo 9]",
+			"url": "https://olympusxyz.com/capitulo/131499/comic-antiguo-supremo",
+			"date_published": "2026-08-05T15:10:40.000Z"
+		},
+		{
+			"id": "Mago Oscuro (Black Haze remake) [Capítulo 86]",
+			"title": "Mago Oscuro (Black Haze remake) [Capítulo 86]",
+			"url": "https://olympusxyz.com/capitulo/131498/comic-mago-oscuro-black-haze-remake",
+			"date_published": "2026-08-05T14:41:46.000Z"
+		},
+		{
+			"id": "Pick me up, Gacha Infinito [Capítulo 213]",
+			"title": "Pick me up, Gacha Infinito [Capítulo 213]",
+			"url": "https://olympusxyz.com/capitulo/131497/comic-pick-me-up-gacha-infinito-20260805-110519874",
+			"date_published": "2026-08-05T14:23:29.000Z"
+		},
+		{
+			"id": "El Supremo Demonio del Veneno se convierte en Presidente de una compañía farmacéutica. [Capítulo 29]",
+			"title": "El Supremo Demonio del Veneno se convierte en Presidente de una compañía farmacéutica. [Capítulo 29]",
+			"url": "https://olympusxyz.com/capitulo/131496/comic-el-supremo-demonio-del-veneno-se-convierte-en-presidente-de-una-compania-farmaceutica",
+			"date_published": "2026-08-05T14:12:56.000Z"
+		},
+		{
+			"id": "El Regreso del Ranker mas Grande de la Historia [Capítulo 36]",
+			"title": "El Regreso del Ranker mas Grande de la Historia [Capítulo 36]",
+			"url": "https://olympusxyz.com/capitulo/131495/comic-el-regreso-del-ranker-mas-grande-de-la-historia",
+			"date_published": "2026-08-05T14:01:35.000Z"
+		},
+		{
 			"id": "El regreso del héroe de clase: Desastre [Capítulo 184]",
 			"title": "El regreso del héroe de clase: Desastre [Capítulo 184]",
 			"url": "https://olympusxyz.com/capitulo/131494/comic-el-cl20-225-ase-desastre13424",
@@ -2965,42 +3001,6 @@
 			"title": "Ingeniero de Laberintos de Rango Nacional [Capítulo 29]",
 			"url": "https://olympusxyz.com/capitulo/130784/comic-ingeniero-de-laberintos-de-rango-nacional",
 			"date_published": "2026-07-17T16:22:08.000Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 56]",
-			"title": "Mestizo [Capítulo 56]",
-			"url": "https://olympusxyz.com/capitulo/130783/comic-mestizo",
-			"date_published": "2026-07-17T16:16:03.000Z"
-		},
-		{
-			"id": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 13]",
-			"title": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 13]",
-			"url": "https://olympusxyz.com/capitulo/130782/comic-es-malo-que-el-personaje-principal-sea-un-roleplayer",
-			"date_published": "2026-07-17T16:11:52.000Z"
-		},
-		{
-			"id": "El Gobernante de la Oscuridad [Capítulo 21]",
-			"title": "El Gobernante de la Oscuridad [Capítulo 21]",
-			"url": "https://olympusxyz.com/capitulo/130779/comic-el-gobernante-de-la-oscuridad",
-			"date_published": "2026-07-17T16:02:42.000Z"
-		},
-		{
-			"id": "El renacimiento del Demonio Divino [Capítulo 41]",
-			"title": "El renacimiento del Demonio Divino [Capítulo 41]",
-			"url": "https://olympusxyz.com/capitulo/130778/comic-1el-renacimiento-del-demonio-divino",
-			"date_published": "2026-07-17T15:58:52.000Z"
-		},
-		{
-			"id": "Creador de Finales [Capítulo 80]",
-			"title": "Creador de Finales [Capítulo 80]",
-			"url": "https://olympusxyz.com/capitulo/130777/comic-no-e10-05-2025itas5313424",
-			"date_published": "2026-07-17T15:20:24.000Z"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 85]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 85]",
-			"url": "https://olympusxyz.com/capitulo/130776/comic-voy-a-an10-05-2025-tierra",
-			"date_published": "2026-07-17T15:12:04.000Z"
 		}
 	]
 }
