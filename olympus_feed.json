@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Psicópata del Murim [Capítulo 37]",
+			"title": "El Psicópata del Murim [Capítulo 37]",
+			"url": "https://olympusxyz.com/capitulo/131490/comic-el-psicopata-del-murim-20260804-110141123",
+			"date_published": "2026-08-05T04:07:20.000Z"
+		},
+		{
+			"id": "Hellogin [Capítulo 5]",
+			"title": "Hellogin [Capítulo 5]",
+			"url": "https://olympusxyz.com/capitulo/131489/comic-hellogin",
+			"date_published": "2026-08-05T02:53:31.000Z"
+		},
+		{
+			"id": "Crónicas del Retorno del Dios Marcial [Capítulo 170.5]",
+			"title": "Crónicas del Retorno del Dios Marcial [Capítulo 170.5]",
+			"url": "https://olympusxyz.com/capitulo/131488/comic-cronica20-225-os-marcial13424",
+			"date_published": "2026-08-05T02:36:13.000Z"
+		},
+		{
 			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 50.5]",
 			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 50.5]",
 			"url": "https://olympusxyz.com/capitulo/131486/comic-el-retorno-del-patriarca-mil-anos-despues",
@@ -2983,24 +3001,6 @@
 			"title": "La voluntad de supervivencia del villano [Capítulo 60]",
 			"url": "https://olympusxyz.com/capitulo/130774/comic-la-volunt10-05-2025-del-villano",
 			"date_published": "2026-07-17T13:43:14.000Z"
-		},
-		{
-			"id": "Mago prismático genio [Capítulo 85]",
-			"title": "Mago prismático genio [Capítulo 85]",
-			"url": "https://olympusxyz.com/capitulo/130773/comic-mago-prismatico-genio-20260718-110244317",
-			"date_published": "2026-07-17T13:02:56.000Z"
-		},
-		{
-			"id": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 186]",
-			"title": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado [Capítulo 186]",
-			"url": "https://olympusxyz.com/capitulo/130040/comic-maestr10-05-2025ede-ser-el-hijo-sagrado5324",
-			"date_published": "2026-07-17T13:01:34.000Z"
-		},
-		{
-			"id": "El ascenso de Namgung, el Emperador de la Espada [Capítulo 18]",
-			"title": "El ascenso de Namgung, el Emperador de la Espada [Capítulo 18]",
-			"url": "https://olympusxyz.com/capitulo/130772/comic-el-ascenso-de-namgung-el-emperador-de-la-espada",
-			"date_published": "2026-07-17T12:03:56.000Z"
 		}
 	]
 }
