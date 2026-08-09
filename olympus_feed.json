@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Las conspiraciones del mercenario regresado [Capítulo 100]",
+			"title": "Las conspiraciones del mercenario regresado [Capítulo 100]",
+			"url": "https://olympusxyz.com/capitulo/131651/comic-las-conspiraciones-del-mercenario-regresado-20260808-110454900",
+			"date_published": "2026-08-09T04:45:17.000Z"
+		},
+		{
 			"id": "Reencarnación del Rey del Puño [Capítulo 64]",
 			"title": "Reencarnación del Rey del Puño [Capítulo 64]",
 			"url": "https://olympusxyz.com/capitulo/131650/comic-reencarnacion-del-rey-del-puno-20260808-110522295",
@@ -2995,12 +3001,6 @@
 			"title": "El extra de la novela (remake) [Capítulo 165]",
 			"url": "https://olympusxyz.com/capitulo/130898/comic-el-ext20-225-ra-de-la-novela-remake13424",
 			"date_published": "2026-07-20T14:32:36.000Z"
-		},
-		{
-			"id": "El Regreso del Espadachín Oscuro [Capítulo 58]",
-			"title": "El Regreso del Espadachín Oscuro [Capítulo 58]",
-			"url": "https://olympusxyz.com/capitulo/130897/comic-el-regreso-del-espadachin-oscuro",
-			"date_published": "2026-07-20T14:24:11.000Z"
 		}
 	]
 }
