@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El soberano del hogar [Capítulo 92]",
+			"title": "El soberano del hogar [Capítulo 92]",
+			"url": "https://olympusxyz.com/capitulo/131761/comic-el-soberano-del-hogar-20260811-110456139",
+			"date_published": "2026-08-12T07:03:04.000Z"
+		},
+		{
 			"id": "El maestro de la espada acogedor de estrellas [Capítulo 133]",
 			"title": "El maestro de la espada acogedor de estrellas [Capítulo 133]",
 			"url": "https://olympusxyz.com/capitulo/131760/comic-el-maestro-de-la-espada-acogedor-de-estrellas-20260811-110441854",
@@ -2995,12 +3001,6 @@
 			"title": "El renacimiento del Demonio Divino [Capítulo 43]",
 			"url": "https://olympusxyz.com/capitulo/131005/comic-1el-renacimiento-del-demonio-divino",
 			"date_published": "2026-07-23T16:29:45.000Z"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 41]",
-			"title": "El Dios Demonio [Capítulo 41]",
-			"url": "https://olympusxyz.com/capitulo/131004/comic-el-dios-demonio",
-			"date_published": "2026-07-23T16:19:21.000Z"
 		}
 	]
 }
