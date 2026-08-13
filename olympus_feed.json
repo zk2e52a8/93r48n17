@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Item Chetado [Capítulo 191]",
+			"title": "Item Chetado [Capítulo 191]",
+			"url": "https://olympusxyz.com/capitulo/131824/comic-item-chetado-20260813-110227770",
+			"date_published": "2026-08-13T18:01:25.000Z"
+		},
+		{
+			"id": "Nueva Cara [Capítulo 620]",
+			"title": "Nueva Cara [Capítulo 620]",
+			"url": "https://olympusxyz.com/capitulo/131823/comic-nueva-cara-20260813-110231930",
+			"date_published": "2026-08-13T17:28:03.000Z"
+		},
+		{
+			"id": "El dinero del Lord no disminuye [Capítulo 216]",
+			"title": "El dinero del Lord no disminuye [Capítulo 216]",
+			"url": "https://olympusxyz.com/capitulo/131820/comic-lordin12410-05-2025124124124",
+			"date_published": "2026-08-13T16:39:32.000Z"
+		},
+		{
+			"id": "Mata Villanos [Capítulo 71]",
+			"title": "Mata Villanos [Capítulo 71]",
+			"url": "https://olympusxyz.com/capitulo/131818/comic-mata-villanos-20260813-110220720",
+			"date_published": "2026-08-13T16:06:06.000Z"
+		},
+		{
+			"id": "La luz de Arad: Aquel que camina primero [Capítulo 110]",
+			"title": "La luz de Arad: Aquel que camina primero [Capítulo 110]",
+			"url": "https://olympusxyz.com/capitulo/131817/comic-la-luz-de-arad-aquel-que-camina-primero-20260813-110215175",
+			"date_published": "2026-08-13T16:01:39.000Z"
+		},
+		{
+			"id": "El Profesor Encubierto de la Academia [Capítulo 158]",
+			"title": "El Profesor Encubierto de la Academia [Capítulo 158]",
+			"url": "https://olympusxyz.com/capitulo/131816/comic-el-profesor-encubierto-de-la-academia-20260813-110200789",
+			"date_published": "2026-08-13T15:57:57.000Z"
+		},
+		{
 			"id": "El Devoto Caballero [Capítulo 177]",
 			"title": "El Devoto Caballero [Capítulo 177]",
 			"url": "https://olympusxyz.com/capitulo/131814/comic-el-devoto-caballero-20260813-110238586",
@@ -2965,42 +3001,6 @@
 			"title": "Han Pasado 30 Años Desde el Prólogo [Capítulo 4]",
 			"url": "https://olympusxyz.com/capitulo/131077/comic-han-pasado-30-anos-desde-el-prologo",
 			"date_published": "2026-07-25T19:07:21.000Z"
-		},
-		{
-			"id": "¡La Tanque de Clase C que regresó no muere! [Capítulo 64]",
-			"title": "¡La Tanque de Clase C que regresó no muere! [Capítulo 64]",
-			"url": "https://olympusxyz.com/capitulo/131075/comic-la-tanque-de-clase-c-que-regreso-no-muere-20260726-110339281",
-			"date_published": "2026-07-25T18:25:23.000Z"
-		},
-		{
-			"id": "La Ascensión Marcial del Dios Demonio [Capítulo 171]",
-			"title": "La Ascensión Marcial del Dios Demonio [Capítulo 171]",
-			"url": "https://olympusxyz.com/capitulo/130716/comic-dis-m10-05-2025arcial-2013424",
-			"date_published": "2026-07-25T17:17:52.000Z"
-		},
-		{
-			"id": "Una carta de amor del futuro [Capítulo 52]",
-			"title": "Una carta de amor del futuro [Capítulo 52]",
-			"url": "https://olympusxyz.com/capitulo/129973/comic-5zxzamor-del-futuro",
-			"date_published": "2026-07-25T16:12:52.000Z"
-		},
-		{
-			"id": "El lancero genio inmortal [Capítulo 26]",
-			"title": "El lancero genio inmortal [Capítulo 26]",
-			"url": "https://olympusxyz.com/capitulo/131067/comic-el-lancero-genio-inmortal",
-			"date_published": "2026-07-25T15:10:31.000Z"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 164]",
-			"title": "Heroe, regresa [Capítulo 164]",
-			"url": "https://olympusxyz.com/capitulo/131066/comic-dragon-20-225-y-heroe13424",
-			"date_published": "2026-07-25T14:45:20.000Z"
-		},
-		{
-			"id": "El Herrero que Regresó para Reparar Todo [Capítulo 34]",
-			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 34]",
-			"url": "https://olympusxyz.com/capitulo/131065/comic-el-herrero-que-regreso-para-reparar-todo",
-			"date_published": "2026-07-25T14:05:31.000Z"
 		}
 	]
 }
