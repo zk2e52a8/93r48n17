@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Crónicas de un Inmortal [Capítulo 25]",
+			"title": "Crónicas de un Inmortal [Capítulo 25]",
+			"url": "https://olympusxyz.com/capitulo/131801/comic-cronicas-de-un-inmortal-20260812-110255218",
+			"date_published": "2026-08-13T06:00:52.000Z"
+		},
+		{
 			"id": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 26]",
 			"title": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 26]",
 			"url": "https://olympusxyz.com/capitulo/131799/comic-es-malo-que-el-personaje-principal-sea-un-roleplayer",
@@ -2995,12 +3001,6 @@
 			"title": "apocalipsis zombie 82 08 [Capítulo 129]",
 			"url": "https://olympusxyz.com/capitulo/130482/comic-apocalipsis-zombie-82-08-20260725-110242621",
 			"date_published": "2026-07-24T21:26:21.000Z"
-		},
-		{
-			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 289]",
-			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 289]",
-			"url": "https://olympusxyz.com/capitulo/131048/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd",
-			"date_published": "2026-07-24T19:54:58.000Z"
 		}
 	]
 }
