@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Odisea en la Mazmorra [Capítulo 165]",
+			"title": "Odisea en la Mazmorra [Capítulo 165]",
+			"url": "https://olympusxyz.com/capitulo/131893/comic-prota-m20-225-ene-su-laberinto13424",
+			"date_published": "2026-08-15T04:56:50.000Z"
+		},
+		{
 			"id": "El Mercenario que Reencarno entre Aristócratas [Capítulo 45]",
 			"title": "El Mercenario que Reencarno entre Aristócratas [Capítulo 45]",
 			"url": "https://olympusxyz.com/capitulo/131892/comic-el-mercenario-que-reencarno-entre-aristocratas-20260814-110246945",
@@ -2995,12 +3001,6 @@
 			"title": "Cronicas de la faccion demoniaca (Chun hajin, el asesino mas fuerte) [Capítulo 181]",
 			"url": "https://olympusxyz.com/capitulo/131138/comic-cronicas-de-la-faccion-demoniaca-chun-hajin-el-asesino-mas-fuerte-20260728-110055240",
 			"date_published": "2026-07-27T01:43:20.000Z"
-		},
-		{
-			"id": "Tengo la guía exclusiva de la torre [Capítulo 128]",
-			"title": "Tengo la guía exclusiva de la torre [Capítulo 128]",
-			"url": "https://olympusxyz.com/capitulo/131137/comic-tengo-la-guia-exclusiva-de-la-torre-20260728-110033793",
-			"date_published": "2026-07-27T00:58:08.000Z"
 		}
 	]
 }
