@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "La Espada Suprema Demoníaca [Capítulo 40]",
+			"title": "La Espada Suprema Demoníaca [Capítulo 40]",
+			"url": "https://olympusxyz.com/capitulo/130280/comic-la-espada-suprema-demoniaca-20260815-110350385",
+			"date_published": "2026-08-16T02:24:44.000Z"
+		},
+		{
+			"id": "El Pintor que Dibuja Mazmorras [Capítulo 20]",
+			"title": "El Pintor que Dibuja Mazmorras [Capítulo 20]",
+			"url": "https://olympusxyz.com/capitulo/131931/comic-el-pintor-que-dibuja-mazmorras",
+			"date_published": "2026-08-16T01:19:46.000Z"
+		},
+		{
+			"id": "La vida del cazador de clase S entre monstruos [Capítulo 51.6]",
+			"title": "La vida del cazador de clase S entre monstruos [Capítulo 51.6]",
+			"url": "https://olympusxyz.com/capitulo/131930/comic-la-vida-del-cazador-de-clase-s-entre-monstruos-20260815-110341135",
+			"date_published": "2026-08-16T01:07:32.000Z"
+		},
+		{
 			"id": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 130]",
 			"title": "El Hijo Menor del Renombrado Clan Mágico [Capítulo 130]",
 			"url": "https://olympusxyz.com/capitulo/131929/comic-el-hijo-m20-225-do-clan-magi13424",
@@ -2983,24 +3001,6 @@
 			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 46]",
 			"url": "https://olympusxyz.com/capitulo/131173/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
 			"date_published": "2026-07-28T13:47:27.000Z"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 243]",
-			"title": "Villano antihéroe [Capítulo 243]",
-			"url": "https://olympusxyz.com/capitulo/131171/comic-villano-antiheroe-20260729-110356829",
-			"date_published": "2026-07-28T13:30:09.000Z"
-		},
-		{
-			"id": "Las constelaciones son mis discípulos [Capítulo 147]",
-			"title": "Las constelaciones son mis discípulos [Capítulo 147]",
-			"url": "https://olympusxyz.com/capitulo/131170/comic-las-constelaciones-son-mis-discipulos-20260728-110054390",
-			"date_published": "2026-07-28T13:26:23.000Z"
-		},
-		{
-			"id": "Hijos de la Runa [Capítulo 68]",
-			"title": "Hijos de la Runa [Capítulo 68]",
-			"url": "https://olympusxyz.com/capitulo/130917/comic-hijoo5324s-de-la-runa",
-			"date_published": "2026-07-28T13:01:21.000Z"
 		}
 	]
 }
