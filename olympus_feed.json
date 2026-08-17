@@ -3,6 +3,48 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El Mago de Decima Clase [Capítulo 24]",
+			"title": "El Mago de Decima Clase [Capítulo 24]",
+			"url": "https://olympusxyz.com/capitulo/132005/comic-el-mago-de-decima-clase-20260817-110533772",
+			"date_published": "2026-08-17T16:26:03.000Z"
+		},
+		{
+			"id": "Me Case con la Dragona que Maté [Capítulo 11]",
+			"title": "Me Case con la Dragona que Maté [Capítulo 11]",
+			"url": "https://olympusxyz.com/capitulo/132004/comic-me-case-con-la-dragona-que-mate",
+			"date_published": "2026-08-17T16:14:45.000Z"
+		},
+		{
+			"id": "No me interesa ser el sucesor; mejor me dedicaré a sanar. [Capítulo 29]",
+			"title": "No me interesa ser el sucesor; mejor me dedicaré a sanar. [Capítulo 29]",
+			"url": "https://olympusxyz.com/capitulo/132003/comic-no-me-interesa-ser-el-sucesor-mejor-me-dedicare-a-sanar",
+			"date_published": "2026-08-17T16:08:08.000Z"
+		},
+		{
+			"id": "Supremacía de la Supervivencia [Capítulo 4]",
+			"title": "Supremacía de la Supervivencia [Capítulo 4]",
+			"url": "https://olympusxyz.com/capitulo/132002/comic-supremacia-de-la-supervivencia",
+			"date_published": "2026-08-17T14:43:01.000Z"
+		},
+		{
+			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 176]",
+			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 176]",
+			"url": "https://olympusxyz.com/capitulo/132001/comic-el-lege20-225-ndario-marques13424",
+			"date_published": "2026-08-17T13:37:06.000Z"
+		},
+		{
+			"id": "El extra de la novela (remake) [Capítulo 168.5]",
+			"title": "El extra de la novela (remake) [Capítulo 168.5]",
+			"url": "https://olympusxyz.com/capitulo/132000/comic-el-ext20-225-ra-de-la-novela-remake13424",
+			"date_published": "2026-08-17T13:14:36.000Z"
+		},
+		{
+			"id": "El príncipe heredero que vende medicina [Capítulo 117]",
+			"title": "El príncipe heredero que vende medicina [Capítulo 117]",
+			"url": "https://olympusxyz.com/capitulo/130984/comic-el-principe-heredero-que-vende-medicina-20260817-110441041",
+			"date_published": "2026-08-17T13:04:41.000Z"
+		},
+		{
 			"id": "El Indomable Rey Marcial [Capítulo 140]",
 			"title": "El Indomable Rey Marcial [Capítulo 140]",
 			"url": "https://olympusxyz.com/capitulo/131999/comic-el-indomable-rey-marcial-20260817-110445406",
@@ -2959,48 +3001,6 @@
 			"title": "Rey usurero de Murim [Capítulo 12]",
 			"url": "https://olympusxyz.com/capitulo/131231/comic-rey-usurero-de-murim",
 			"date_published": "2026-07-29T18:45:42.000Z"
-		},
-		{
-			"id": "El renacimiento del Demonio Divino [Capítulo 44]",
-			"title": "El renacimiento del Demonio Divino [Capítulo 44]",
-			"url": "https://olympusxyz.com/capitulo/131228/comic-1el-renacimiento-del-demonio-divino",
-			"date_published": "2026-07-29T17:41:30.000Z"
-		},
-		{
-			"id": "El Devoto Caballero [Capítulo 175]",
-			"title": "El Devoto Caballero [Capítulo 175]",
-			"url": "https://olympusxyz.com/capitulo/131227/comic-el-devoto-caballero-20260730-110440728",
-			"date_published": "2026-07-29T17:28:25.000Z"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 42]",
-			"title": "El Dios Demonio [Capítulo 42]",
-			"url": "https://olympusxyz.com/capitulo/131226/comic-el-dios-demonio",
-			"date_published": "2026-07-29T17:27:03.000Z"
-		},
-		{
-			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 81]",
-			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 81]",
-			"url": "https://olympusxyz.com/capitulo/131225/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
-			"date_published": "2026-07-29T16:52:04.000Z"
-		},
-		{
-			"id": "Al demonio con ser un santo, soy un medico [Capítulo 171]",
-			"title": "Al demonio con ser un santo, soy un medico [Capítulo 171]",
-			"url": "https://olympusxyz.com/capitulo/131223/comic-al-de20-225-n-medico",
-			"date_published": "2026-07-29T16:47:46.000Z"
-		},
-		{
-			"id": "Item Chetado [Capítulo 190]",
-			"title": "Item Chetado [Capítulo 190]",
-			"url": "https://olympusxyz.com/capitulo/131221/comic-item-chetado-20260730-110430313",
-			"date_published": "2026-07-29T16:46:06.000Z"
-		},
-		{
-			"id": "El Ascenso del Caballero Errante [Capítulo 49]",
-			"title": "El Ascenso del Caballero Errante [Capítulo 49]",
-			"url": "https://olympusxyz.com/capitulo/131220/comic-el-ascenso-del-caballero-errante",
-			"date_published": "2026-07-29T16:44:27.000Z"
 		}
 	]
 }
