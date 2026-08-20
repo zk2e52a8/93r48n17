@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Tengo la guía exclusiva de la torre [Capítulo 132]",
+			"title": "Tengo la guía exclusiva de la torre [Capítulo 132]",
+			"url": "https://olympusxyz.com/capitulo/132096/comic-tengo-la-guia-exclusiva-de-la-torre-20260819-110445325",
+			"date_published": "2026-08-20T07:33:15.000Z"
+		},
+		{
 			"id": "Los Breakers [Capítulo 106]",
 			"title": "Los Breakers [Capítulo 106]",
 			"url": "https://olympusxyz.com/capitulo/132095/comic-los-breakers-20260819-110522968",
@@ -2995,12 +3001,6 @@
 			"title": "El Pintor que Dibuja Mazmorras [Capítulo 18]",
 			"url": "https://olympusxyz.com/capitulo/131332/comic-el-pintor-que-dibuja-mazmorras",
 			"date_published": "2026-08-01T15:26:51.000Z"
-		},
-		{
-			"id": "El maestro de la espada Genio de la academia [Capítulo 148]",
-			"title": "El maestro de la espada Genio de la academia [Capítulo 148]",
-			"url": "https://olympusxyz.com/capitulo/131331/comic-el-maestro-de-la-espada-genio-de-la-academia-20260802-110456560",
-			"date_published": "2026-08-01T15:08:02.000Z"
 		}
 	]
 }
