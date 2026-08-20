@@ -3,6 +3,12 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los Breakers [Capítulo 106]",
+			"title": "Los Breakers [Capítulo 106]",
+			"url": "https://olympusxyz.com/capitulo/132095/comic-los-breakers-20260819-110522968",
+			"date_published": "2026-08-20T04:23:02.000Z"
+		},
+		{
 			"id": "Jugador de nivel máximo [Capítulo 149]",
 			"title": "Jugador de nivel máximo [Capítulo 149]",
 			"url": "https://olympusxyz.com/capitulo/132094/comic-jug20-225-olympus513424",
@@ -2995,12 +3001,6 @@
 			"title": "El maestro de la espada Genio de la academia [Capítulo 148]",
 			"url": "https://olympusxyz.com/capitulo/131331/comic-el-maestro-de-la-espada-genio-de-la-academia-20260802-110456560",
 			"date_published": "2026-08-01T15:08:02.000Z"
-		},
-		{
-			"id": "El lancero genio inmortal [Capítulo 27]",
-			"title": "El lancero genio inmortal [Capítulo 27]",
-			"url": "https://olympusxyz.com/capitulo/131330/comic-el-lancero-genio-inmortal",
-			"date_published": "2026-08-01T14:54:33.000Z"
 		}
 	]
 }
