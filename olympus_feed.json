@@ -3,6 +3,90 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Restaurante del mago [Capítulo 149]",
+			"title": "Restaurante del mago [Capítulo 149]",
+			"url": "https://olympusxyz.com/capitulo/132612/comic-restaurante-del-mago-20260901-110233587",
+			"date_published": "2026-09-01T18:34:00.000Z"
+		},
+		{
+			"id": "Super humanos [Capítulo 241]",
+			"title": "Super humanos [Capítulo 241]",
+			"url": "https://olympusxyz.com/capitulo/131020/comic-super-humanos-20260901-110238724",
+			"date_published": "2026-09-01T17:47:37.000Z"
+		},
+		{
+			"id": "El dinero del Lord no disminuye [Capítulo 219]",
+			"title": "El dinero del Lord no disminuye [Capítulo 219]",
+			"url": "https://olympusxyz.com/capitulo/132611/comic-lordin12410-05-2025124124124",
+			"date_published": "2026-09-01T16:26:37.000Z"
+		},
+		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 110]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 110]",
+			"url": "https://olympusxyz.com/capitulo/132610/comic-regresion10-05-20250152309",
+			"date_published": "2026-09-01T16:15:45.000Z"
+		},
+		{
+			"id": "Rayito [Capítulo 416]",
+			"title": "Rayito [Capítulo 416]",
+			"url": "https://olympusxyz.com/capitulo/132609/comic-rayito-20260901-110259047",
+			"date_published": "2026-09-01T14:59:19.000Z"
+		},
+		{
+			"id": "El Perro Loco de la Mansión del Duque [Capítulo 73]",
+			"title": "El Perro Loco de la Mansión del Duque [Capítulo 73]",
+			"url": "https://olympusxyz.com/capitulo/132608/comic-el-perro-loco-de-la-mansion-del-duque",
+			"date_published": "2026-09-01T14:53:44.000Z"
+		},
+		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 250]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 250]",
+			"url": "https://olympusxyz.com/capitulo/132605/comic-el-mundo-despues-del-fin-20260901-110225081",
+			"date_published": "2026-09-01T14:51:32.000Z"
+		},
+		{
+			"id": "El extra de la novela (remake) [Capítulo 170]",
+			"title": "El extra de la novela (remake) [Capítulo 170]",
+			"url": "https://olympusxyz.com/capitulo/132604/comic-el-ext20-225-ra-de-la-novela-remake13424",
+			"date_published": "2026-09-01T14:46:17.000Z"
+		},
+		{
+			"id": "Mago Oscuro (Black Haze remake) [Capítulo 89]",
+			"title": "Mago Oscuro (Black Haze remake) [Capítulo 89]",
+			"url": "https://olympusxyz.com/capitulo/132602/comic-mago-oscuro-black-haze-remake",
+			"date_published": "2026-09-01T14:10:07.000Z"
+		},
+		{
+			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 51]",
+			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 51]",
+			"url": "https://olympusxyz.com/capitulo/132601/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
+			"date_published": "2026-09-01T14:09:30.000Z"
+		},
+		{
+			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 184]",
+			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 184]",
+			"url": "https://olympusxyz.com/capitulo/132600/comic-shirone20-225-el22-infinit015551251524131123",
+			"date_published": "2026-09-01T13:40:01.000Z"
+		},
+		{
+			"id": "apocalipsis zombie 82 08 [Capítulo 134]",
+			"title": "apocalipsis zombie 82 08 [Capítulo 134]",
+			"url": "https://olympusxyz.com/capitulo/131841/comic-apocalipsis-zombie-82-08-20260901-110226525",
+			"date_published": "2026-09-01T13:02:35.000Z"
+		},
+		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 49]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 49]",
+			"url": "https://olympusxyz.com/capitulo/132599/comic-1el-renacimiento-del-demonio-divino",
+			"date_published": "2026-09-01T13:01:45.000Z"
+		},
+		{
+			"id": "Reencarnado [Capítulo 149]",
+			"title": "Reencarnado [Capítulo 149]",
+			"url": "https://olympusxyz.com/capitulo/132598/comic-reencarnado-20260901-110231919",
+			"date_published": "2026-09-01T11:41:48.000Z"
+		},
+		{
 			"id": "El Regreso del Espadachín Oscuro [Capítulo 63]",
 			"title": "El Regreso del Espadachín Oscuro [Capítulo 63]",
 			"url": "https://olympusxyz.com/capitulo/132597/comic-el-regreso-del-espadachin-oscuro",
@@ -85,12 +169,6 @@
 			"title": "Me Case con la Dragona que Maté [Capítulo 13]",
 			"url": "https://olympusxyz.com/capitulo/132555/comic-me-case-con-la-dragona-que-mate-20260901-110317469",
 			"date_published": "2026-08-31T17:01:14.000Z"
-		},
-		{
-			"id": "El extra de la novela (remake) [Capítulo 170]",
-			"title": "El extra de la novela (remake) [Capítulo 170]",
-			"url": "https://olympusxyz.com/capitulo/132552/comic-el-ext20-225-ra-de-la-novela-remake13424",
-			"date_published": "2026-08-31T16:05:26.000Z"
 		},
 		{
 			"id": "No me interesa ser el sucesor; mejor me dedicaré a sanar. [Capítulo 31]",
@@ -2923,84 +3001,6 @@
 			"title": "Inicializando el Sistema de la Secta [Capítulo 51]",
 			"url": "https://olympusxyz.com/capitulo/131880/comic-inicializando-el-sistema-de-la-secta-20260815-110334885",
 			"date_published": "2026-08-14T23:39:59.000Z"
-		},
-		{
-			"id": "Mago prismático genio [Capítulo 89]",
-			"title": "Mago prismático genio [Capítulo 89]",
-			"url": "https://olympusxyz.com/capitulo/131877/comic-mago-prismatico-genio-20260815-110241180",
-			"date_published": "2026-08-14T22:37:20.000Z"
-		},
-		{
-			"id": "La evolución de la serpiente inmortal [Capítulo 100]",
-			"title": "La evolución de la serpiente inmortal [Capítulo 100]",
-			"url": "https://olympusxyz.com/capitulo/131876/comic-la-evolucion-de-la-serpiente-inmortal",
-			"date_published": "2026-08-14T22:25:39.000Z"
-		},
-		{
-			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 84]",
-			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 84]",
-			"url": "https://olympusxyz.com/capitulo/130679/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20260815-110235222",
-			"date_published": "2026-08-14T22:07:11.000Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 60.1]",
-			"title": "Mestizo [Capítulo 60.1]",
-			"url": "https://olympusxyz.com/capitulo/131873/comic-mestizo",
-			"date_published": "2026-08-14T21:20:14.000Z"
-		},
-		{
-			"id": "Mestizo [Capítulo 60]",
-			"title": "Mestizo [Capítulo 60]",
-			"url": "https://olympusxyz.com/capitulo/131857/comic-mestizo",
-			"date_published": "2026-08-14T19:18:52.000Z"
-		},
-		{
-			"id": "Ingeniero de Laberintos de Rango Nacional [Capítulo 33]",
-			"title": "Ingeniero de Laberintos de Rango Nacional [Capítulo 33]",
-			"url": "https://olympusxyz.com/capitulo/131856/comic-ingeniero-de-laberintos-de-rango-nacional",
-			"date_published": "2026-08-14T18:24:06.000Z"
-		},
-		{
-			"id": "Inicializando el Sistema de la Secta [Capítulo 49]",
-			"title": "Inicializando el Sistema de la Secta [Capítulo 49]",
-			"url": "https://olympusxyz.com/capitulo/131855/comic-inicializando-el-sistema-de-la-secta-20260814-110245925",
-			"date_published": "2026-08-14T18:19:40.000Z"
-		},
-		{
-			"id": "El Herrero Genio del Juego [Capítulo 67]",
-			"title": "El Herrero Genio del Juego [Capítulo 67]",
-			"url": "https://olympusxyz.com/capitulo/131852/comic-el-herrero-genio-del-juego",
-			"date_published": "2026-08-14T17:17:26.000Z"
-		},
-		{
-			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 30]",
-			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 30]",
-			"url": "https://olympusxyz.com/capitulo/131850/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20260815-110351692",
-			"date_published": "2026-08-14T16:46:05.000Z"
-		},
-		{
-			"id": "Voy a Aniquilar Esta Tierra [Capítulo 89]",
-			"title": "Voy a Aniquilar Esta Tierra [Capítulo 89]",
-			"url": "https://olympusxyz.com/capitulo/131849/comic-voy-a-an10-05-2025-tierra",
-			"date_published": "2026-08-14T15:40:31.000Z"
-		},
-		{
-			"id": "Estandar de la Reencarnación [Capítulo 194]",
-			"title": "Estandar de la Reencarnación [Capítulo 194]",
-			"url": "https://olympusxyz.com/capitulo/131848/comic-elmancochet20-225-o532413424",
-			"date_published": "2026-08-14T15:26:57.000Z"
-		},
-		{
-			"id": "Creador de Finales [Capítulo 84]",
-			"title": "Creador de Finales [Capítulo 84]",
-			"url": "https://olympusxyz.com/capitulo/131847/comic-no-e10-05-2025itas5313424",
-			"date_published": "2026-08-14T14:13:11.000Z"
-		},
-		{
-			"id": "La voluntad de supervivencia del villano [Capítulo 63]",
-			"title": "La voluntad de supervivencia del villano [Capítulo 63]",
-			"url": "https://olympusxyz.com/capitulo/131846/comic-la-volunt10-05-2025-del-villano",
-			"date_published": "2026-08-14T13:51:15.000Z"
 		}
 	]
 }
