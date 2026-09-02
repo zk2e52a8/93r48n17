@@ -3,6 +3,60 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Antiguo Supremo [Capítulo 14]",
+			"title": "Antiguo Supremo [Capítulo 14]",
+			"url": "https://olympusxyz.com/capitulo/132637/comic-antiguo-supremo-20260902-110318957",
+			"date_published": "2026-09-02T16:03:05.000Z"
+		},
+		{
+			"id": "El Devoto Caballero [Capítulo 180]",
+			"title": "El Devoto Caballero [Capítulo 180]",
+			"url": "https://olympusxyz.com/capitulo/132636/comic-el-devoto-caballero-20260902-110258907",
+			"date_published": "2026-09-02T15:18:42.000Z"
+		},
+		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 86]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 86]",
+			"url": "https://olympusxyz.com/capitulo/132635/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis",
+			"date_published": "2026-09-02T14:25:52.000Z"
+		},
+		{
+			"id": "La evolución de la serpiente inmortal [Capítulo 102]",
+			"title": "La evolución de la serpiente inmortal [Capítulo 102]",
+			"url": "https://olympusxyz.com/capitulo/132634/comic-la-evolucion-de-la-serpiente-inmortal",
+			"date_published": "2026-09-02T14:24:29.000Z"
+		},
+		{
+			"id": "Pick me up, Gacha Infinito [Capítulo 217]",
+			"title": "Pick me up, Gacha Infinito [Capítulo 217]",
+			"url": "https://olympusxyz.com/capitulo/132633/comic-pick-me-up-gacha-infinito-20260902-110301476",
+			"date_published": "2026-09-02T14:06:55.000Z"
+		},
+		{
+			"id": "El regreso del héroe de clase: Desastre [Capítulo 188]",
+			"title": "El regreso del héroe de clase: Desastre [Capítulo 188]",
+			"url": "https://olympusxyz.com/capitulo/132632/comic-el-cl20-225-ase-desastre13424",
+			"date_published": "2026-09-02T13:56:19.000Z"
+		},
+		{
+			"id": "El Regreso del Ranker mas Grande de la Historia [Capítulo 40]",
+			"title": "El Regreso del Ranker mas Grande de la Historia [Capítulo 40]",
+			"url": "https://olympusxyz.com/capitulo/132631/comic-el-regreso-del-ranker-mas-grande-de-la-historia",
+			"date_published": "2026-09-02T13:45:08.000Z"
+		},
+		{
+			"id": "Sistema de cultivo del demonio celestial [Capítulo 191]",
+			"title": "Sistema de cultivo del demonio celestial [Capítulo 191]",
+			"url": "https://olympusxyz.com/capitulo/131416/comic-sistema-de-cultivo-del-demonio-celestial-20260902-110229860",
+			"date_published": "2026-09-02T13:02:34.000Z"
+		},
+		{
+			"id": "el bully de bullies [Capítulo 199]",
+			"title": "el bully de bullies [Capítulo 199]",
+			"url": "https://olympusxyz.com/capitulo/132630/comic-el-bully-de-bullies-20260902-110247700",
+			"date_published": "2026-09-02T10:37:29.000Z"
+		},
+		{
 			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 55]",
 			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 55]",
 			"url": "https://olympusxyz.com/capitulo/132626/comic-el-retorno-del-patriarca-mil-anos-despues",
@@ -17,19 +71,19 @@
 		{
 			"id": "Regresión absoluta [Capítulo 117]",
 			"title": "Regresión absoluta [Capítulo 117]",
-			"url": "https://olympusxyz.com/capitulo/132624/comic-regresion-absoluta-20260901-110237459",
+			"url": "https://olympusxyz.com/capitulo/132624/comic-regresion-absoluta-20260902-110237683",
 			"date_published": "2026-09-02T03:16:50.000Z"
 		},
 		{
 			"id": "El Psicópata del Murim [Capítulo 41]",
 			"title": "El Psicópata del Murim [Capítulo 41]",
-			"url": "https://olympusxyz.com/capitulo/132623/comic-el-psicopata-del-murim-20260901-110312015",
+			"url": "https://olympusxyz.com/capitulo/132623/comic-el-psicopata-del-murim-20260902-110312476",
 			"date_published": "2026-09-02T02:18:32.000Z"
 		},
 		{
 			"id": "Yo mate al jugador de la Academia [Capítulo 140]",
 			"title": "Yo mate al jugador de la Academia [Capítulo 140]",
-			"url": "https://olympusxyz.com/capitulo/132622/comic-yo-mate-al-jugador-de-la-academia-20260901-110229305",
+			"url": "https://olympusxyz.com/capitulo/132622/comic-yo-mate-al-jugador-de-la-academia-20260902-110230411",
 			"date_published": "2026-09-02T02:09:57.000Z"
 		},
 		{
@@ -47,7 +101,7 @@
 		{
 			"id": "Civilización Nebula [Capítulo 139]",
 			"title": "Civilización Nebula [Capítulo 139]",
-			"url": "https://olympusxyz.com/capitulo/131453/comic-civilizacion-nebula-20260901-110231882",
+			"url": "https://olympusxyz.com/capitulo/131453/comic-civilizacion-nebula-20260902-110231766",
 			"date_published": "2026-09-01T22:52:38.000Z"
 		},
 		{
@@ -59,7 +113,7 @@
 		{
 			"id": "Secta de la montaña [Capítulo 178]",
 			"title": "Secta de la montaña [Capítulo 178]",
-			"url": "https://olympusxyz.com/capitulo/132615/comic-secta-de-la-montana-20260901-110233320",
+			"url": "https://olympusxyz.com/capitulo/132615/comic-secta-de-la-montana-20260902-110233250",
 			"date_published": "2026-09-01T21:20:25.000Z"
 		},
 		{
@@ -77,19 +131,19 @@
 		{
 			"id": "La historia de cultivo y de exterminio de demonios [Capítulo 12]",
 			"title": "La historia de cultivo y de exterminio de demonios [Capítulo 12]",
-			"url": "https://olympusxyz.com/capitulo/132613/comic-la-historia-de-cultivo-y-de-exterminio-de-demonios-20260901-110318080",
+			"url": "https://olympusxyz.com/capitulo/132613/comic-la-historia-de-cultivo-y-de-exterminio-de-demonios-20260902-110318273",
 			"date_published": "2026-09-01T19:18:47.000Z"
 		},
 		{
 			"id": "Restaurante del mago [Capítulo 149]",
 			"title": "Restaurante del mago [Capítulo 149]",
-			"url": "https://olympusxyz.com/capitulo/132612/comic-restaurante-del-mago-20260901-110233587",
+			"url": "https://olympusxyz.com/capitulo/132612/comic-restaurante-del-mago-20260902-110234049",
 			"date_published": "2026-09-01T18:34:00.000Z"
 		},
 		{
 			"id": "Super humanos [Capítulo 241]",
 			"title": "Super humanos [Capítulo 241]",
-			"url": "https://olympusxyz.com/capitulo/131020/comic-super-humanos-20260901-110238724",
+			"url": "https://olympusxyz.com/capitulo/131020/comic-super-humanos-20260902-110239011",
 			"date_published": "2026-09-01T17:47:37.000Z"
 		},
 		{
@@ -101,7 +155,7 @@
 		{
 			"id": "Rayito [Capítulo 416]",
 			"title": "Rayito [Capítulo 416]",
-			"url": "https://olympusxyz.com/capitulo/132609/comic-rayito-20260901-110259047",
+			"url": "https://olympusxyz.com/capitulo/132609/comic-rayito-20260902-110259952",
 			"date_published": "2026-09-01T14:59:19.000Z"
 		},
 		{
@@ -113,7 +167,7 @@
 		{
 			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 250]",
 			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 250]",
-			"url": "https://olympusxyz.com/capitulo/132605/comic-el-mundo-despues-del-fin-20260901-110225081",
+			"url": "https://olympusxyz.com/capitulo/132605/comic-el-mundo-despues-del-fin-20260902-110226036",
 			"date_published": "2026-09-01T14:51:32.000Z"
 		},
 		{
@@ -2947,60 +3001,6 @@
 			"title": "El chico problemático de la torre mágica [Capítulo 57]",
 			"url": "https://olympusxyz.com/capitulo/131884/comic-el-chico-problematico-de-la-torre-magica-20260816-110453662",
 			"date_published": "2026-08-15T19:00:09.000Z"
-		},
-		{
-			"id": "cultivador del dao bizarro [Capítulo 90]",
-			"title": "cultivador del dao bizarro [Capítulo 90]",
-			"url": "https://olympusxyz.com/capitulo/131336/comic-cultiva5zxzdor-del-dao-bizarro",
-			"date_published": "2026-08-15T18:47:19.000Z"
-		},
-		{
-			"id": "El Genio Marcial que lo Recuerda Todo [Capítulo 22]",
-			"title": "El Genio Marcial que lo Recuerda Todo [Capítulo 22]",
-			"url": "https://olympusxyz.com/capitulo/131903/comic-el-genio-marcial-que-lo-recuerda-todo-20260816-110530492",
-			"date_published": "2026-08-15T17:45:25.000Z"
-		},
-		{
-			"id": "El Genio entrenador de artes marciales [Capítulo 126]",
-			"title": "El Genio entrenador de artes marciales [Capítulo 126]",
-			"url": "https://olympusxyz.com/capitulo/131901/comic-el-genio-entrenador-de-artes-marciales-20260816-110443292",
-			"date_published": "2026-08-15T16:59:34.000Z"
-		},
-		{
-			"id": "El legendario prodigio del ducado [Capítulo 61]",
-			"title": "El legendario prodigio del ducado [Capítulo 61]",
-			"url": "https://olympusxyz.com/capitulo/131900/comic-el-legendario-prodigio-del-ducado",
-			"date_published": "2026-08-15T16:09:46.000Z"
-		},
-		{
-			"id": "Manual de Reeducación de Damas Nobles [Capítulo 38]",
-			"title": "Manual de Reeducación de Damas Nobles [Capítulo 38]",
-			"url": "https://olympusxyz.com/capitulo/131899/comic-manual-de-reeducacion-de-damas-nobles-20260816-110527391",
-			"date_published": "2026-08-15T15:41:28.000Z"
-		},
-		{
-			"id": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 149]",
-			"title": "Mi Hermano Pequeño Es El Mejor De La Academia [Capítulo 149]",
-			"url": "https://olympusxyz.com/capitulo/131898/comic-mi-20-225-hermanoi-pequeno-lol-acamedia",
-			"date_published": "2026-08-15T15:32:18.000Z"
-		},
-		{
-			"id": "El lancero genio inmortal [Capítulo 29]",
-			"title": "El lancero genio inmortal [Capítulo 29]",
-			"url": "https://olympusxyz.com/capitulo/131897/comic-el-lancero-genio-inmortal",
-			"date_published": "2026-08-15T14:27:51.000Z"
-		},
-		{
-			"id": "Heroe, regresa [Capítulo 167]",
-			"title": "Heroe, regresa [Capítulo 167]",
-			"url": "https://olympusxyz.com/capitulo/131896/comic-dragon-20-225-y-heroe13424",
-			"date_published": "2026-08-15T14:00:52.000Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 207]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 207]",
-			"url": "https://olympusxyz.com/capitulo/131895/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-08-15T13:27:13.000Z"
 		}
 	]
 }
