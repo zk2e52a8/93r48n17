@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Regresión del bastardo del clan de la espada [Capítulo 112]",
+			"title": "Regresión del bastardo del clan de la espada [Capítulo 112]",
+			"url": "https://olympusxyz.com/capitulo/133179/comic-regresion10-05-20250152309",
+			"date_published": "2026-09-15T16:22:34.000Z"
+		},
+		{
+			"id": "Rayito [Capítulo 418]",
+			"title": "Rayito [Capítulo 418]",
+			"url": "https://olympusxyz.com/capitulo/133177/comic-rayito-20260915-080219275",
+			"date_published": "2026-09-15T15:37:51.000Z"
+		},
+		{
+			"id": "EL MUNDO DESPUES DEL FIN [Capítulo 252]",
+			"title": "EL MUNDO DESPUES DEL FIN [Capítulo 252]",
+			"url": "https://olympusxyz.com/capitulo/133176/comic-el-mundo-despues-del-fin-20260915-080145795",
+			"date_published": "2026-09-15T15:12:12.000Z"
+		},
+		{
+			"id": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 53]",
+			"title": "El Primer Príncipe: La leyenda del canto de la espada [Capítulo 53]",
+			"url": "https://olympusxyz.com/capitulo/133175/comic-el-primer-principe-la-leyenda-del-canto-de-la-espada",
+			"date_published": "2026-09-15T13:47:23.000Z"
+		},
+		{
+			"id": "Shirone El Infinit0 (Mago infinito) [Capítulo 186]",
+			"title": "Shirone El Infinit0 (Mago infinito) [Capítulo 186]",
+			"url": "https://olympusxyz.com/capitulo/133174/comic-shirone20-225-el22-infinit015551251524131123",
+			"date_published": "2026-09-15T13:46:41.000Z"
+		},
+		{
+			"id": "Mago Oscuro (Black Haze remake) [Capítulo 90.5]",
+			"title": "Mago Oscuro (Black Haze remake) [Capítulo 90.5]",
+			"url": "https://olympusxyz.com/capitulo/133173/comic-mago-oscuro-black-haze-remake",
+			"date_published": "2026-09-15T13:15:03.000Z"
+		},
+		{
 			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 74]",
 			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 74]",
 			"url": "https://olympusxyz.com/capitulo/133137/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
@@ -107,7 +143,7 @@
 		{
 			"id": "El Mago de Decima Clase [Capítulo 28]",
 			"title": "El Mago de Decima Clase [Capítulo 28]",
-			"url": "https://olympusxyz.com/capitulo/133125/comic-el-mago-de-decima-clase-20260914-080528438",
+			"url": "https://olympusxyz.com/capitulo/133125/comic-el-mago-de-decima-clase-20260915-080236384",
 			"date_published": "2026-09-14T14:59:23.000Z"
 		},
 		{
@@ -2965,42 +3001,6 @@
 			"title": "El Gobernante de la Oscuridad [Capítulo 28]",
 			"url": "https://olympusxyz.com/capitulo/132424/comic-el-gobernante-de-la-oscuridad",
 			"date_published": "2026-08-28T03:17:54.000Z"
-		},
-		{
-			"id": "Villano antihéroe [Capítulo 249]",
-			"title": "Villano antihéroe [Capítulo 249]",
-			"url": "https://olympusxyz.com/capitulo/132423/comic-villano-antiheroe-20260828-110139379",
-			"date_published": "2026-08-28T02:18:06.000Z"
-		},
-		{
-			"id": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 16]",
-			"title": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 16]",
-			"url": "https://olympusxyz.com/capitulo/132421/comic-el-camino-a-la-divinidad-comienza-con-esqueletos",
-			"date_published": "2026-08-28T01:50:37.000Z"
-		},
-		{
-			"id": "Realmente no quiero renacer [Capítulo 478]",
-			"title": "Realmente no quiero renacer [Capítulo 478]",
-			"url": "https://olympusxyz.com/capitulo/132044/comic-otra-serie-chin10-05-2025encarnacion",
-			"date_published": "2026-08-28T00:55:09.000Z"
-		},
-		{
-			"id": "El Dios Demonio [Capítulo 46]",
-			"title": "El Dios Demonio [Capítulo 46]",
-			"url": "https://olympusxyz.com/capitulo/132418/comic-el-dios-demonio",
-			"date_published": "2026-08-27T23:54:27.000Z"
-		},
-		{
-			"id": "¡¡Acero, Sangre, Murim!! [Capítulo 8.3]",
-			"title": "¡¡Acero, Sangre, Murim!! [Capítulo 8.3]",
-			"url": "https://olympusxyz.com/capitulo/130657/comic-acero-sangre-murim",
-			"date_published": "2026-08-27T23:40:13.000Z"
-		},
-		{
-			"id": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 158]",
-			"title": "Sobreviviendo al Juego Siendo un Barbaro (Bjorn el bárbaro) [Capítulo 158]",
-			"url": "https://olympusxyz.com/capitulo/132417/comic-sobreviviendo-al-juego-siendo-un-barbaro-bjorn-el-barbaro-20260828-110142082",
-			"date_published": "2026-08-27T22:39:04.000Z"
 		}
 	]
 }
