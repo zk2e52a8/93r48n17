@@ -3,6 +3,18 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Guerra de Extinción [Capítulo 4]",
+			"title": "Guerra de Extinción [Capítulo 4]",
+			"url": "https://olympusxyz.com/capitulo/133303/comic-guerra-de-extincion",
+			"date_published": "2026-09-18T07:41:24.000Z"
+		},
+		{
+			"id": "Haciendome rico con la caza automatica [Capítulo 15]",
+			"title": "Haciendome rico con la caza automatica [Capítulo 15]",
+			"url": "https://olympusxyz.com/capitulo/133302/comic-haciendome-rico-con-la-caza-automatica",
+			"date_published": "2026-09-18T05:42:31.000Z"
+		},
+		{
 			"id": "Guerra de Extinción [Capítulo 2]",
 			"title": "Guerra de Extinción [Capítulo 2]",
 			"url": "https://olympusxyz.com/capitulo/133298/comic-guerra-de-extincion",
@@ -11,7 +23,7 @@
 		{
 			"id": "El Séptimo Príncipe Quiere Escapar [Capítulo 21]",
 			"title": "El Séptimo Príncipe Quiere Escapar [Capítulo 21]",
-			"url": "https://olympusxyz.com/capitulo/133296/comic-el-septimo-principe-quiere-escapar-20260917-080424868",
+			"url": "https://olympusxyz.com/capitulo/133296/comic-el-septimo-principe-quiere-escapar-20260918-080138323",
 			"date_published": "2026-09-18T02:19:08.000Z"
 		},
 		{
@@ -23,13 +35,13 @@
 		{
 			"id": "El príncipe heredero que vende medicina [Capítulo 123]",
 			"title": "El príncipe heredero que vende medicina [Capítulo 123]",
-			"url": "https://olympusxyz.com/capitulo/133245/comic-el-principe-heredero-que-vende-medicina-20260917-080338801",
+			"url": "https://olympusxyz.com/capitulo/133245/comic-el-principe-heredero-que-vende-medicina-20260918-080052776",
 			"date_published": "2026-09-18T00:58:47.000Z"
 		},
 		{
 			"id": "¡Que abundante cosecha, señor demonio! [Capítulo 85]",
 			"title": "¡Que abundante cosecha, señor demonio! [Capítulo 85]",
-			"url": "https://olympusxyz.com/capitulo/133287/comic-que-abundante-cosecha-senor-demonio-20260917-080351800",
+			"url": "https://olympusxyz.com/capitulo/133287/comic-que-abundante-cosecha-senor-demonio-20260918-080105961",
 			"date_published": "2026-09-17T23:56:39.000Z"
 		},
 		{
@@ -59,7 +71,7 @@
 		{
 			"id": "El ascenso de Namgung, el Emperador de la Espada [Capítulo 27]",
 			"title": "El ascenso de Namgung, el Emperador de la Espada [Capítulo 27]",
-			"url": "https://olympusxyz.com/capitulo/133275/comic-el-ascenso-de-namgung-el-emperador-de-la-espada-20260917-080425143",
+			"url": "https://olympusxyz.com/capitulo/133275/comic-el-ascenso-de-namgung-el-emperador-de-la-espada-20260918-080138658",
 			"date_published": "2026-09-17T21:53:08.000Z"
 		},
 		{
@@ -71,13 +83,13 @@
 		{
 			"id": "La Espada Suprema Demoníaca [Capítulo 49]",
 			"title": "La Espada Suprema Demoníaca [Capítulo 49]",
-			"url": "https://olympusxyz.com/capitulo/132761/comic-la-espada-suprema-demoniaca-20260917-080420857",
+			"url": "https://olympusxyz.com/capitulo/132761/comic-la-espada-suprema-demoniaca-20260918-080134444",
 			"date_published": "2026-09-17T20:53:47.000Z"
 		},
 		{
 			"id": "Sin fin skills [Capítulo 277]",
 			"title": "Sin fin skills [Capítulo 277]",
-			"url": "https://olympusxyz.com/capitulo/133270/comic-sin-fin-skills-20260917-080356643",
+			"url": "https://olympusxyz.com/capitulo/133270/comic-sin-fin-skills-20260918-080110513",
 			"date_published": "2026-09-17T19:49:53.000Z"
 		},
 		{
@@ -2989,18 +3001,6 @@
 			"title": "Archimago trascendiendo a través de la regresión [Capítulo 211]",
 			"url": "https://olympusxyz.com/capitulo/131009/comic-archima20-225-de-la-regresion13424",
 			"date_published": "2026-08-31T00:24:23.000Z"
-		},
-		{
-			"id": "Las constelaciones son mis discípulos [Capítulo 151]",
-			"title": "Las constelaciones son mis discípulos [Capítulo 151]",
-			"url": "https://olympusxyz.com/capitulo/132533/comic-las-constelaciones-son-mis-discipulos-20260901-110255470",
-			"date_published": "2026-08-30T23:21:05.000Z"
-		},
-		{
-			"id": "*El Villano Del Destino [Capítulo 354]",
-			"title": "*El Villano Del Destino [Capítulo 354]",
-			"url": "https://olympusxyz.com/capitulo/132532/comic-el-villan20-225-o-del-destino",
-			"date_published": "2026-08-30T22:53:52.000Z"
 		}
 	]
 }
