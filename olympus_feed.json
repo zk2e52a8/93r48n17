@@ -3,6 +3,42 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Secta de la montaña [Capítulo 182]",
+			"title": "Secta de la montaña [Capítulo 182]",
+			"url": "https://olympusxyz.com/capitulo/133769/comic-secta-de-la-montana-20260929-080030831",
+			"date_published": "2026-09-30T03:05:34.000Z"
+		},
+		{
+			"id": "Los Breakers [Capítulo 117]",
+			"title": "Los Breakers [Capítulo 117]",
+			"url": "https://olympusxyz.com/capitulo/133768/comic-los-breakers-20260929-080105887",
+			"date_published": "2026-09-30T02:57:35.000Z"
+		},
+		{
+			"id": "Manual de instrucciones del Reencarnado [Capítulo 205]",
+			"title": "Manual de instrucciones del Reencarnado [Capítulo 205]",
+			"url": "https://olympusxyz.com/capitulo/133767/comic-manual-de-instrucc20-225-l-reencarnado",
+			"date_published": "2026-09-30T02:37:17.000Z"
+		},
+		{
+			"id": "Obtuve una Galería en la Naturaleza [Capítulo 7]",
+			"title": "Obtuve una Galería en la Naturaleza [Capítulo 7]",
+			"url": "https://olympusxyz.com/capitulo/133766/comic-obtuve-una-galeria-en-la-naturaleza",
+			"date_published": "2026-09-30T02:21:23.000Z"
+		},
+		{
+			"id": "El hijo bastardo del marqués era el emperador [Capítulo 124]",
+			"title": "El hijo bastardo del marqués era el emperador [Capítulo 124]",
+			"url": "https://olympusxyz.com/capitulo/133187/comic-el-hijo-bastardo-del-marques-era-el-emperador",
+			"date_published": "2026-09-30T01:10:39.000Z"
+		},
+		{
+			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 59]",
+			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 59]",
+			"url": "https://olympusxyz.com/capitulo/133765/comic-el-retorno-del-patriarca-mil-anos-despues",
+			"date_published": "2026-09-29T23:35:32.000Z"
+		},
+		{
 			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 76]",
 			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 76]",
 			"url": "https://olympusxyz.com/capitulo/133710/comic-el-hijo-menor-del-grupo-mercantil-eunhae",
@@ -2965,42 +3001,6 @@
 			"title": "El Herrero que Regresó para Reparar Todo [Capítulo 38]",
 			"url": "https://olympusxyz.com/capitulo/133026/comic-el-herrero-que-regreso-para-reparar-todo",
 			"date_published": "2026-09-12T14:12:47.000Z"
-		},
-		{
-			"id": "El Espectro del Desierto Calcinado [Capítulo 28]",
-			"title": "El Espectro del Desierto Calcinado [Capítulo 28]",
-			"url": "https://olympusxyz.com/capitulo/133025/comic-el-espectro-del-desierto-calcinado",
-			"date_published": "2026-09-12T13:32:20.000Z"
-		},
-		{
-			"id": "El hijo menor del maestro de la espada [Capítulo 211]",
-			"title": "El hijo menor del maestro de la espada [Capítulo 211]",
-			"url": "https://olympusxyz.com/capitulo/133024/comic-el-hijo20-225-de-la-espada13424",
-			"date_published": "2026-09-12T13:28:46.000Z"
-		},
-		{
-			"id": "El Santo que sube de nivel como Nigromante [Capítulo 33]",
-			"title": "El Santo que sube de nivel como Nigromante [Capítulo 33]",
-			"url": "https://olympusxyz.com/capitulo/131869/comic-el-santo-que-sube-de-nivel-como-nigromante",
-			"date_published": "2026-09-12T13:05:09.000Z"
-		},
-		{
-			"id": "Odisea en la Mazmorra [Capítulo 169]",
-			"title": "Odisea en la Mazmorra [Capítulo 169]",
-			"url": "https://olympusxyz.com/capitulo/133022/comic-prota-m20-225-ene-su-laberinto13424",
-			"date_published": "2026-09-12T08:52:48.000Z"
-		},
-		{
-			"id": "Ecos del Mundo Invertido [Capítulo 46]",
-			"title": "Ecos del Mundo Invertido [Capítulo 46]",
-			"url": "https://olympusxyz.com/capitulo/133021/comic-ecos-del-mundo-invertido",
-			"date_published": "2026-09-12T04:33:09.000Z"
-		},
-		{
-			"id": "Mago prismático genio [Capítulo 93]",
-			"title": "Mago prismático genio [Capítulo 93]",
-			"url": "https://olympusxyz.com/capitulo/133020/comic-mago-prismatico-genio-20260912-080121022",
-			"date_published": "2026-09-12T03:51:58.000Z"
 		}
 	]
 }
