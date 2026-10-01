@@ -347,7 +347,8 @@ const generar_feed_final = (feed_base) => {
 
 	// Procesar los nuevos items
 	for (const item of (feed_base.items || [])) {
-		const titulo_completo = `${item.title.trim()} [${item.chapter.trim()}]`;
+		const normalizar_espacios = (texto) => {return texto.replace(/\u00A0/g, ' ');}; // Reemplazar non-breaking space
+		const titulo_completo =`${item.title.trim()} [${normalizar_espacios(item.chapter.trim())}]`;
 
 		if (!mapa_items.has(titulo_completo)) {
 
