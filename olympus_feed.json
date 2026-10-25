@@ -3,6 +3,24 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 316]",
+			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 316]",
+			"url": "https://olympusxyz.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd/capitulo/316",
+			"date_published": "2026-10-25T18:18:59.000Z"
+		},
+		{
+			"id": "Empiezo con 13 Rasgos Ocultos [Capítulo 52]",
+			"title": "Empiezo con 13 Rasgos Ocultos [Capítulo 52]",
+			"url": "https://olympusxyz.com/series/comic-empiezo-con-13-rasgos-ocultos-20261025-080226110/capitulo/52",
+			"date_published": "2026-10-25T17:55:11.000Z"
+		},
+		{
+			"id": "Juicio del infierno [Capítulo 14]",
+			"title": "Juicio del infierno [Capítulo 14]",
+			"url": "https://olympusxyz.com/series/comic-juicio-del-infierno/capitulo/14",
+			"date_published": "2026-10-25T17:47:29.000Z"
+		},
+		{
 			"id": "Goblin Inc. [Capítulo 19]",
 			"title": "Goblin Inc. [Capítulo 19]",
 			"url": "https://olympusxyz.com/series/comic-goblin-inc-20261025-080232564/capitulo/19",
@@ -2983,24 +3001,6 @@
 			"title": "Loco Murim [Capítulo 206]",
 			"url": "https://olympusxyz.com/capitulo/133972/comic-loco-murim-20261006-080438361",
 			"date_published": "2026-10-05T20:44:30.000Z"
-		},
-		{
-			"id": "La leyenda de cultivación de un regresor [Capítulo 28]",
-			"title": "La leyenda de cultivación de un regresor [Capítulo 28]",
-			"url": "https://olympusxyz.com/capitulo/133971/comic-la-leyenda-de-cultivacion-de-un-regresor-20261006-080516046",
-			"date_published": "2026-10-05T19:56:31.000Z"
-		},
-		{
-			"id": "Crónicas del soberano perezoso [Capítulo 45]",
-			"title": "Crónicas del soberano perezoso [Capítulo 45]",
-			"url": "https://olympusxyz.com/capitulo/133967/comic-cronicas-del-soberano-perezoso-20261006-080521444",
-			"date_published": "2026-10-05T18:45:05.000Z"
-		},
-		{
-			"id": "El villano loco recupera la cordura [Capítulo 1]",
-			"title": "El villano loco recupera la cordura [Capítulo 1]",
-			"url": "https://olympusxyz.com/capitulo/133966/comic-el-villano-loco-recupera-la-cordura",
-			"date_published": "2026-10-05T18:39:05.000Z"
 		}
 	]
 }
