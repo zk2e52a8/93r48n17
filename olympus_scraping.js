@@ -14,9 +14,9 @@ const patron_boton_nuevo_dominio = 'a.bg-zinc-800.hover\\:before\\:shadow-emeral
 const ruta_scraping = '/capitulos'; // TODO Usar otro selector css?
 const patron_boton_pagina_siguiente = 'a[title="página siguiente"], a[name="página siguiente"]';
 
-const patron_ficha = '.bg-gray-800.p-4.rounded-xl.relative'; // Contenedor del nombre, capítulo, URL y fecha
-const patron_titulo = 'figcaption';
-const patron_capitulo = '.flex.flex-col.gap-2.mt-4 a:first-child .chapter-name';
+const patron_ficha = 'article.relcard'; // Contenedor del nombre, capítulo, URL y fecha
+const patron_titulo = 'a.relcard-title';
+const patron_capitulo = 'ol.relcard-list li a.chrow .chname';
 // La URL y fecha se obtienen automáticamente desde 'href' y 'datetime' (el primero encontrado)
 
 const titulo_feed = 'Olympus - Nuevos capítulos';
