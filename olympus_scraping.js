@@ -12,7 +12,7 @@ puppeteer.use(stealth_plugin());
 const dominio_redireccion = 'https://olympus.pages.dev/';
 const patron_boton_nuevo_dominio = 'a.bg-zinc-800.hover\\:before\\:shadow-emerald-400';
 const ruta_scraping = '/capitulos'; // TODO Usar otro selector css?
-const patron_boton_pagina_siguiente = 'a[title="página siguiente"], a[name="página siguiente"]';
+const patron_boton_pagina_siguiente = 'nav.pager button[aria-label="Página siguiente"]';
 
 const patron_ficha = 'article.relcard'; // Contenedor del nombre, capítulo, URL y fecha
 const patron_titulo = 'a.relcard-title';
@@ -265,7 +265,7 @@ const procesar_paginas = async (pagina) => {
 		// Buscar botón de página siguiente
 		const boton_siguiente = await pagina.$(patron_boton_pagina_siguiente);
 		if (!boton_siguiente) {
-			console.log('No se encontró el botón de página siguiente. Finalizando scraping.');
+			console.error('No se encontró el botón de página siguiente. Finalizando scraping.', error);
 			break;
 		}
 
