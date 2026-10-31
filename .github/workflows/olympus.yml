@@ -19,10 +19,19 @@ jobs:
     timeout-minutes: 60
 
     steps:
+      - name: Instalar WireGuard
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wireguard resolvconf
+
       - name: Configurar WireGuard
-        uses: Cardtonic-Technologies/ttt-wireguard@main
-        with:
+        env:
           WG_CONFIG: ${{ secrets.WG_CONFIG }}
+        run: |
+          sudo install -d -m 700 /etc/wireguard
+          printf '%s\n' "$WG_CONFIG" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+          sudo chmod 600 /etc/wireguard/wg0.conf
+          sudo wg-quick up wg0
           
       - name: Clonar repositorio privado
         uses: actions/checkout@v6
