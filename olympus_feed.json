@@ -3,6 +3,36 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "El novato [Capítulo 284]",
+			"title": "El novato [Capítulo 284]",
+			"url": "https://olympusxyz.com/series/comic-el-novato-20261106-080411935/capitulo/284",
+			"date_published": "2026-11-06T20:29:06.000Z"
+		},
+		{
+			"id": "Antiguo Supremo [Capítulo 23]",
+			"title": "Antiguo Supremo [Capítulo 23]",
+			"url": "https://olympusxyz.com/series/comic-antiguo-supremo-20261106-080607365/capitulo/23",
+			"date_published": "2026-11-06T19:23:17.000Z"
+		},
+		{
+			"id": "El Lunático Yerno del Gran Duque del Norte [Capítulo 5]",
+			"title": "El Lunático Yerno del Gran Duque del Norte [Capítulo 5]",
+			"url": "https://olympusxyz.com/series/comic-el-lunatico-yerno-del-gran-duque-del-norte/capitulo/5",
+			"date_published": "2026-11-06T18:39:54.000Z"
+		},
+		{
+			"id": "El Profesor Genio solo Quiere una Vida Tranquila [Capítulo 27]",
+			"title": "El Profesor Genio solo Quiere una Vida Tranquila [Capítulo 27]",
+			"url": "https://olympusxyz.com/series/comic-el-profesor-genio-solo-quiere-una-vida-tranquila/capitulo/27",
+			"date_published": "2026-11-06T18:01:47.000Z"
+		},
+		{
+			"id": "Esclavo de las sombras [Capítulo 16]",
+			"title": "Esclavo de las sombras [Capítulo 16]",
+			"url": "https://olympusxyz.com/series/comic-esclavo-de-las-sombras/capitulo/16",
+			"date_published": "2026-11-06T16:51:22.000Z"
+		},
+		{
 			"id": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 43]",
 			"title": "Esclavo Corporativo en una Historia de Fantasmas [Capítulo 43]",
 			"url": "https://olympusxyz.com/series/comic-esclavo-corporativo-en-una-historia-de-fantasmas/capitulo/43",
@@ -2971,36 +3001,6 @@
 			"title": "entrenador de clases [Capítulo 187]",
 			"url": "https://olympusxyz.com/series/comic-entrenador-de-clases-20261025-080134866/capitulo/187",
 			"date_published": "2026-10-20T18:48:45.000Z"
-		},
-		{
-			"id": "Las conspiraciones del mercenario regresado [Capítulo 111]",
-			"title": "Las conspiraciones del mercenario regresado [Capítulo 111]",
-			"url": "https://olympusxyz.com/series/comic-las-conspiraciones-del-mercenario-regresado-20261025-080118642/capitulo/111",
-			"date_published": "2026-10-20T18:24:06.000Z"
-		},
-		{
-			"id": "Mi Novia ha Regresado Como una Dragona [Capítulo 10]",
-			"title": "Mi Novia ha Regresado Como una Dragona [Capítulo 10]",
-			"url": "https://olympusxyz.com/series/comic-mi-novia-ha-regresado-como-una-dragona/capitulo/10",
-			"date_published": "2026-10-20T17:58:03.000Z"
-		},
-		{
-			"id": "el bully de bullies [Capítulo 206]",
-			"title": "el bully de bullies [Capítulo 206]",
-			"url": "https://olympusxyz.com/series/comic-el-bully-de-bullies-20261025-080134875/capitulo/206",
-			"date_published": "2026-10-20T17:46:51.000Z"
-		},
-		{
-			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 62]",
-			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 62]",
-			"url": "https://olympusxyz.com/series/comic-el-retorno-del-patriarca-mil-anos-despues/capitulo/62",
-			"date_published": "2026-10-20T17:02:02.000Z"
-		},
-		{
-			"id": "Electricidad [Capítulo 423]",
-			"title": "Electricidad [Capítulo 423]",
-			"url": "https://olympusxyz.com/series/comic-electricidad-20261025-080158686/capitulo/423",
-			"date_published": "2026-10-20T15:59:02.000Z"
 		}
 	]
 }
