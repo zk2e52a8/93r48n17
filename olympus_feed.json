@@ -3,6 +3,30 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Manual de Reeducación de Damas Nobles [Capítulo 50]",
+			"title": "Manual de Reeducación de Damas Nobles [Capítulo 50]",
+			"url": "https://olympusxyz.com/series/comic-manual-de-reeducacion-de-damas-nobles-20261108-080756299/capitulo/50",
+			"date_published": "2026-11-08T19:30:11.000Z"
+		},
+		{
+			"id": "El Genio Marcial que lo Recuerda Todo [Capítulo 34]",
+			"title": "El Genio Marcial que lo Recuerda Todo [Capítulo 34]",
+			"url": "https://olympusxyz.com/series/comic-el-genio-marcial-que-lo-recuerda-todo-20261108-080805480/capitulo/34",
+			"date_published": "2026-11-08T18:55:16.000Z"
+		},
+		{
+			"id": "Haciendome rico con la caza automatica [Capítulo 28]",
+			"title": "Haciendome rico con la caza automatica [Capítulo 28]",
+			"url": "https://olympusxyz.com/series/comic-haciendome-rico-con-la-caza-automatica/capitulo/28",
+			"date_published": "2026-11-08T18:32:47.000Z"
+		},
+		{
+			"id": "Guia de supervivencia del extra de la academia [Capítulo 130]",
+			"title": "Guia de supervivencia del extra de la academia [Capítulo 130]",
+			"url": "https://olympusxyz.com/series/comic-guia-de-supervivencia-del-extra-de-la-academia-20261108-080519194/capitulo/130",
+			"date_published": "2026-11-08T15:28:17.000Z"
+		},
+		{
 			"id": "Iniciando sesión en 10,000 años en el futuro [Capítulo 366]",
 			"title": "Iniciando sesión en 10,000 años en el futuro [Capítulo 366]",
 			"url": "https://olympusxyz.com/series/comic-isecaikr20-225-arochino13424/capitulo/366",
@@ -2977,30 +3001,6 @@
 			"title": "Secta de la montaña [Capítulo 184.1]",
 			"url": "https://olympusxyz.com/series/comic-secta-de-la-montana-20261025-080107581/capitulo/184.1",
 			"date_published": "2026-10-22T23:52:46.000Z"
-		},
-		{
-			"id": "De duende a Dios Goblin [Capítulo 128]",
-			"title": "De duende a Dios Goblin [Capítulo 128]",
-			"url": "https://olympusxyz.com/series/comic-de-duen10-05-2025de-a-dios-goblin/capitulo/128",
-			"date_published": "2026-10-22T22:29:18.000Z"
-		},
-		{
-			"id": "Dios Demonio Cercenador de Brazos [Capítulo 335]",
-			"title": "Dios Demonio Cercenador de Brazos [Capítulo 335]",
-			"url": "https://olympusxyz.com/series/comic-dios-demonio-cercenador-de-brazos-20261025-080137346/capitulo/335",
-			"date_published": "2026-10-22T21:42:06.000Z"
-		},
-		{
-			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 53]",
-			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 53]",
-			"url": "https://olympusxyz.com/series/comic-el-rey-demonio-abrumado-por-heroes-20261025-080211087/capitulo/53",
-			"date_published": "2026-10-22T20:59:59.000Z"
-		},
-		{
-			"id": "Come y crece [Capítulo 75]",
-			"title": "Come y crece [Capítulo 75]",
-			"url": "https://olympusxyz.com/series/comic-come-y-crece-20261025-080203727/capitulo/75",
-			"date_published": "2026-10-22T19:49:52.000Z"
 		}
 	]
 }
