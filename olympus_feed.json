@@ -3,6 +3,54 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Jugador devorador de acero [Capítulo 115]",
+			"title": "Jugador devorador de acero [Capítulo 115]",
+			"url": "https://olympusxyz.com/series/comic-jugador-devorador-de-acero-20261110-080440805/capitulo/115",
+			"date_published": "2026-11-11T04:44:43.000Z"
+		},
+		{
+			"id": "Geom Mugeuk [Capítulo 127]",
+			"title": "Geom Mugeuk [Capítulo 127]",
+			"url": "https://olympusxyz.com/series/comic-geom-mugeuk-20261110-080448442/capitulo/127",
+			"date_published": "2026-11-11T03:11:24.000Z"
+		},
+		{
+			"id": "Secta de la montaña [Capítulo 187]",
+			"title": "Secta de la montaña [Capítulo 187]",
+			"url": "https://olympusxyz.com/series/comic-secta-de-la-montana-20261110-080445696/capitulo/187",
+			"date_published": "2026-11-11T02:04:40.000Z"
+		},
+		{
+			"id": "El Retorno del Patriarca Mil Años Después [Capítulo 65]",
+			"title": "El Retorno del Patriarca Mil Años Después [Capítulo 65]",
+			"url": "https://olympusxyz.com/series/comic-el-retorno-del-patriarca-mil-anos-despues/capitulo/65",
+			"date_published": "2026-11-11T01:41:37.000Z"
+		},
+		{
+			"id": "el pasado oculto del jugador [Capítulo 146]",
+			"title": "el pasado oculto del jugador [Capítulo 146]",
+			"url": "https://olympusxyz.com/series/comic-el-pasado-oculto-del-jugador-20261110-080503068/capitulo/146",
+			"date_published": "2026-11-11T01:34:22.000Z"
+		},
+		{
+			"id": "El Regreso del Maestro del Infierno [Capítulo 75]",
+			"title": "El Regreso del Maestro del Infierno [Capítulo 75]",
+			"url": "https://olympusxyz.com/series/comic-el-regreso-del-maestro-del-infierno-20261110-080506522/capitulo/75",
+			"date_published": "2026-11-10T23:31:33.000Z"
+		},
+		{
+			"id": "El Novato Asesino de Villanos [Capítulo 10]",
+			"title": "El Novato Asesino de Villanos [Capítulo 10]",
+			"url": "https://olympusxyz.com/series/comic-el-novato-asesino-de-villanos/capitulo/10",
+			"date_published": "2026-11-10T23:06:20.000Z"
+		},
+		{
+			"id": "El amigo del Rey Demonio [Capítulo 16]",
+			"title": "El amigo del Rey Demonio [Capítulo 16]",
+			"url": "https://olympusxyz.com/series/comic-el-amigo-del-rey-demonio/capitulo/16",
+			"date_published": "2026-11-10T22:05:01.000Z"
+		},
+		{
 			"id": "El Regresor y la Santa Ciega [Capítulo 25]",
 			"title": "El Regresor y la Santa Ciega [Capítulo 25]",
 			"url": "https://olympusxyz.com/series/comic-el-regresor-y-la-santa-ciega/capitulo/25",
@@ -2953,54 +3001,6 @@
 			"title": "El chico problemático de la torre mágica [Capítulo 67]",
 			"url": "https://olympusxyz.com/series/comic-el-chico-problematico-de-la-torre-magica-20261026-080215153/capitulo/67",
 			"date_published": "2026-10-25T15:41:50.000Z"
-		},
-		{
-			"id": "Haciendome rico con la caza automatica [Capítulo 26]",
-			"title": "Haciendome rico con la caza automatica [Capítulo 26]",
-			"url": "https://olympusxyz.com/series/comic-haciendome-rico-con-la-caza-automatica/capitulo/26",
-			"date_published": "2026-10-25T15:41:31.000Z"
-		},
-		{
-			"id": "El legendario hijo menor de la Casa del Marques [Capítulo 184]",
-			"title": "El legendario hijo menor de la Casa del Marques [Capítulo 184]",
-			"url": "https://olympusxyz.com/series/comic-el-lege20-225-ndario-marques13424/capitulo/184",
-			"date_published": "2026-10-25T15:00:05.000Z"
-		},
-		{
-			"id": "La aniquilación del Sendero Celestial [Capítulo 24]",
-			"title": "La aniquilación del Sendero Celestial [Capítulo 24]",
-			"url": "https://olympusxyz.com/series/comic-la-aniquilacion-del-sendero-celestial/capitulo/24",
-			"date_published": "2026-10-25T14:42:19.000Z"
-		},
-		{
-			"id": "La venganza del sabueso de sangre de hierro [Capítulo 186]",
-			"title": "La venganza del sabueso de sangre de hierro [Capítulo 186]",
-			"url": "https://olympusxyz.com/series/comic-20-225-2sabueso13424/capitulo/186",
-			"date_published": "2026-10-25T14:03:44.000Z"
-		},
-		{
-			"id": "El jugador que no puede subir de nivel [Capítulo 249]",
-			"title": "El jugador que no puede subir de nivel [Capítulo 249]",
-			"url": "https://olympusxyz.com/series/comic-el-jugador-que-no-puede-subir-de-nivel-20261025-080158736/capitulo/249",
-			"date_published": "2026-10-25T14:00:10.000Z"
-		},
-		{
-			"id": "Jugador que regresó 10.000 años después [Capítulo 164]",
-			"title": "Jugador que regresó 10.000 años después [Capítulo 164]",
-			"url": "https://olympusxyz.com/series/comic-jugad20-225-reso-10000-anos-despues13424/capitulo/164",
-			"date_published": "2026-10-25T13:40:47.000Z"
-		},
-		{
-			"id": "El Santo que sube de nivel como Nigromante [Capítulo 41]",
-			"title": "El Santo que sube de nivel como Nigromante [Capítulo 41]",
-			"url": "https://olympusxyz.com/series/comic-el-santo-que-sube-de-nivel-como-nigromante/capitulo/41",
-			"date_published": "2026-10-25T13:00:52.000Z"
-		},
-		{
-			"id": "El Troll más fuerte del mundo [Capítulo 196.05]",
-			"title": "El Troll más fuerte del mundo [Capítulo 196.05]",
-			"url": "https://olympusxyz.com/series/comic-el-troll-mas-fuerte-del-mundo-20261025-080101299/capitulo/196.05",
-			"date_published": "2026-10-25T11:37:42.000Z"
 		}
 	]
 }
