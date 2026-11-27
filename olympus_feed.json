@@ -3,147 +3,273 @@
 	"title": "Olympus - Nuevos capítulos",
 	"items": [
 		{
+			"id": "Los Breakers [Capítulo 135]",
+			"title": "Los Breakers [Capítulo 135]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-los-breakers-20261127-080153748/capitulo/135",
+			"date_published": "2026-11-27T23:31:47.000Z"
+		},
+		{
+			"id": "Crónicas del soberano perezoso [Capítulo 70]",
+			"title": "Crónicas del soberano perezoso [Capítulo 70]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-cronicas-del-soberano-perezoso-20261127-080153753/capitulo/70",
+			"date_published": "2026-11-27T23:10:02.000Z"
+		},
+		{
+			"id": "Crónicas de un Inmortal [Capítulo 39]",
+			"title": "Crónicas de un Inmortal [Capítulo 39]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-cronicas-de-un-inmortal-20261127-080159125/capitulo/39",
+			"date_published": "2026-11-27T22:55:20.000Z"
+		},
+		{
+			"id": "Come y crece [Capítulo 80]",
+			"title": "Come y crece [Capítulo 80]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-come-y-crece-20261127-080150284/capitulo/80",
+			"date_published": "2026-11-27T22:36:48.000Z"
+		},
+		{
+			"id": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 41]",
+			"title": "¿Es malo que el personaje principal sea un roleplayer? [Capítulo 41]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-es-malo-que-el-personaje-principal-sea-un-roleplayer/capitulo/41",
+			"date_published": "2026-11-27T20:48:14.000Z"
+		},
+		{
+			"id": "Susurros de un Demonio Astuto [Capítulo 17]",
+			"title": "Susurros de un Demonio Astuto [Capítulo 17]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-susurros-de-un-demonio-astuto/capitulo/17",
+			"date_published": "2026-11-27T20:30:42.000Z"
+		},
+		{
+			"id": "Sangre Maldita [Capítulo 110]",
+			"title": "Sangre Maldita [Capítulo 110]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-sangre-maldita-20261127-080135522/capitulo/110",
+			"date_published": "2026-11-27T20:11:09.000Z"
+		},
+		{
+			"id": "¡Copiando habilidades con Afinidad! [Capítulo 16]",
+			"title": "¡Copiando habilidades con Afinidad! [Capítulo 16]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-copiando-habilidades-con-afinidad/capitulo/16",
+			"date_published": "2026-11-27T19:56:03.000Z"
+		},
+		{
+			"id": "El novato [Capítulo 287]",
+			"title": "El novato [Capítulo 287]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-novato-20261127-080140391/capitulo/287",
+			"date_published": "2026-11-27T19:14:29.000Z"
+		},
+		{
+			"id": "El renacimiento del Demonio Divino [Capítulo 63]",
+			"title": "El renacimiento del Demonio Divino [Capítulo 63]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-1el-renacimiento-del-demonio-divino/capitulo/63",
+			"date_published": "2026-11-27T18:51:04.000Z"
+		},
+		{
+			"id": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 98]",
+			"title": "El Regreso del Caballero de la Muerte Clase: Apocalipsis [Capítulo 98]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-regreso-del-caballero-de-la-muerte-clase-apocalipsis/capitulo/98",
+			"date_published": "2026-11-27T18:47:25.000Z"
+		},
+		{
+			"id": "El Ascenso del Caballero Errante [Capítulo 69]",
+			"title": "El Ascenso del Caballero Errante [Capítulo 69]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-ascenso-del-caballero-errante/capitulo/69",
+			"date_published": "2026-11-27T17:46:51.000Z"
+		},
+		{
+			"id": "Nigromante con dinero ilimitado [Capítulo 26]",
+			"title": "Nigromante con dinero ilimitado [Capítulo 26]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-nigromante-con-dinero-ilimitado/capitulo/26",
+			"date_published": "2026-11-27T17:46:24.000Z"
+		},
+		{
+			"id": "Geom Mugeuk [Capítulo 129]",
+			"title": "Geom Mugeuk [Capítulo 129]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-geom-mugeuk-20261127-080132567/capitulo/129",
+			"date_published": "2026-11-27T17:30:16.000Z"
+		},
+		{
+			"id": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 44]",
+			"title": "Guía de Supervivencia del Cazador de Bestias Demoníacas [Capítulo 44]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-guia-de-supervivencia-del-cazador-de-bestias-demoniacas-20261127-080158249/capitulo/44",
+			"date_published": "2026-11-27T16:40:12.000Z"
+		},
+		{
+			"id": "Ingeniero de Laberintos de Rango Nacional [Capítulo 46]",
+			"title": "Ingeniero de Laberintos de Rango Nacional [Capítulo 46]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-ingeniero-de-laberintos-de-rango-nacional/capitulo/46",
+			"date_published": "2026-11-27T16:14:14.000Z"
+		},
+		{
+			"id": "El Rey Demonio Abrumado por Héroes [Capítulo 58]",
+			"title": "El Rey Demonio Abrumado por Héroes [Capítulo 58]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-rey-demonio-abrumado-por-heroes-20261127-080151940/capitulo/58",
+			"date_published": "2026-11-27T16:00:13.000Z"
+		},
+		{
+			"id": "Jugador de la noble familia caída [Capítulo 66]",
+			"title": "Jugador de la noble familia caída [Capítulo 66]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-jugador-de-la-noble-familia-caida/capitulo/66",
+			"date_published": "2026-11-27T15:18:46.000Z"
+		},
+		{
+			"id": "Voy a Aniquilar Esta Tierra [Capítulo 102.6]",
+			"title": "Voy a Aniquilar Esta Tierra [Capítulo 102.6]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-voy-a-an10-05-2025-tierra/capitulo/102.6",
+			"date_published": "2026-11-27T14:45:23.000Z"
+		},
+		{
+			"id": "Como vivir como el principe enemigo [Capítulo 129]",
+			"title": "Como vivir como el principe enemigo [Capítulo 129]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-como-v20-225-rincipe-enemigo5324/capitulo/129",
+			"date_published": "2026-11-27T13:54:27.000Z"
+		},
+		{
+			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 78]",
+			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 78]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-ascenso-del-tercer-principe-del-reino-caido/capitulo/78",
+			"date_published": "2026-11-27T13:49:51.000Z"
+		},
+		{
+			"id": "La voluntad de supervivencia del villano [Capítulo 74]",
+			"title": "La voluntad de supervivencia del villano [Capítulo 74]",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-la-volunt10-05-2025-del-villano/capitulo/74",
+			"date_published": "2026-11-27T13:41:15.000Z"
+		},
+		{
 			"id": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 86]",
 			"title": "El hijo menor del Grupo Mercantil Eunhae [Capítulo 86]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-hijo-menor-del-grupo-mercantil-eunhae/capitulo/86",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-hijo-menor-del-grupo-mercantil-eunhae/capitulo/86",
 			"date_published": "2026-11-27T13:01:26.000Z"
 		},
 		{
 			"id": "Tomb Raider King — End Line [Capítulo 36]",
 			"title": "Tomb Raider King — End Line [Capítulo 36]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-tomb-raider-king-end-line/capitulo/36",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-tomb-raider-king-end-line/capitulo/36",
 			"date_published": "2026-11-27T12:46:31.000Z"
 		},
 		{
 			"id": "Realmente no quiero renacer [Capítulo 515]",
 			"title": "Realmente no quiero renacer [Capítulo 515]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-otra-serie-chin10-05-2025encarnacion/capitulo/515",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-otra-serie-chin10-05-2025encarnacion/capitulo/515",
 			"date_published": "2026-11-27T10:21:36.000Z"
 		},
 		{
 			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 120]",
 			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 120]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20261127-080135516/capitulo/120",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20261127-080135516/capitulo/120",
 			"date_published": "2026-11-27T08:11:38.000Z"
 		},
 		{
 			"id": "Sobreviviendo como un genio con tiempo prestado [Capítulo 100]",
 			"title": "Sobreviviendo como un genio con tiempo prestado [Capítulo 100]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20261127-080134538/capitulo/100",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-sobreviviendo-como-un-genio-con-tiempo-prestado-20261127-080134538/capitulo/100",
 			"date_published": "2026-11-27T07:06:36.000Z"
 		},
 		{
 			"id": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 22]",
 			"title": "El Camino a la Divinidad Comienza con Esqueletos [Capítulo 22]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-camino-a-la-divinidad-comienza-con-esqueletos/capitulo/22",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-camino-a-la-divinidad-comienza-con-esqueletos/capitulo/22",
 			"date_published": "2026-11-27T06:02:39.000Z"
-		},
-		{
-			"id": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 78]",
-			"title": "El Ascenso del Tercer Príncipe del Reino Caído [Capítulo 78]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-ascenso-del-tercer-principe-del-reino-caido/capitulo/78",
-			"date_published": "2026-11-27T04:45:48.000Z"
 		},
 		{
 			"id": "Lee Jaha [Capítulo 209]",
 			"title": "Lee Jaha [Capítulo 209]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-lee-jaha-20261127-080124637/capitulo/209",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-lee-jaha-20261127-080124637/capitulo/209",
 			"date_published": "2026-11-27T03:39:30.000Z"
 		},
 		{
 			"id": "Antiguo Supremo [Capítulo 26]",
 			"title": "Antiguo Supremo [Capítulo 26]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-antiguo-supremo-20261127-080201009/capitulo/26",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-antiguo-supremo-20261127-080201009/capitulo/26",
 			"date_published": "2026-11-27T03:01:46.000Z"
 		},
 		{
 			"id": "El Rey Supremo de Sichuan [Capítulo 22]",
 			"title": "El Rey Supremo de Sichuan [Capítulo 22]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-rey-supremo-de-sichuan-20261127-080157339/capitulo/22",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-rey-supremo-de-sichuan-20261127-080157339/capitulo/22",
 			"date_published": "2026-11-27T02:23:12.000Z"
 		},
 		{
 			"id": "El Perro Loco de la Mansión del Duque [Capítulo 85]",
 			"title": "El Perro Loco de la Mansión del Duque [Capítulo 85]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-perro-loco-de-la-mansion-del-duque/capitulo/85",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-perro-loco-de-la-mansion-del-duque/capitulo/85",
 			"date_published": "2026-11-27T01:22:50.000Z"
 		},
 		{
 			"id": "Tengo títulos infinitos [Capítulo 12]",
 			"title": "Tengo títulos infinitos [Capítulo 12]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-tengo-titulos-infinitos/capitulo/12",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-tengo-titulos-infinitos/capitulo/12",
 			"date_published": "2026-11-27T01:17:34.000Z"
 		},
 		{
 			"id": "El caballero prodigio de una raza caída [Capítulo 10]",
 			"title": "El caballero prodigio de una raza caída [Capítulo 10]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-caballero-prodigio-de-una-raza-caida/capitulo/10",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-caballero-prodigio-de-una-raza-caida/capitulo/10",
 			"date_published": "2026-11-27T01:15:06.000Z"
 		},
 		{
 			"id": "Ecos del Mundo Invertido [Capítulo 55]",
 			"title": "Ecos del Mundo Invertido [Capítulo 55]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-ecos-del-mundo-invertido/capitulo/55",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-ecos-del-mundo-invertido/capitulo/55",
 			"date_published": "2026-11-27T01:03:10.000Z"
 		},
 		{
 			"id": "Bjorn el bárbaro [Capítulo 171]",
 			"title": "Bjorn el bárbaro [Capítulo 171]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-bjorn-el-barbaro-20261127-080147050/capitulo/171",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-bjorn-el-barbaro-20261127-080147050/capitulo/171",
 			"date_published": "2026-11-26T23:42:45.000Z"
 		},
 		{
 			"id": "Super humanos [Capítulo 260]",
 			"title": "Super humanos [Capítulo 260]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-super-humanos-20261127-080133565/capitulo/260",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-super-humanos-20261127-080133565/capitulo/260",
 			"date_published": "2026-11-26T23:36:37.000Z"
 		},
 		{
 			"id": "De duende a Dios Goblin [Capítulo 131]",
 			"title": "De duende a Dios Goblin [Capítulo 131]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-de-duen10-05-2025de-a-dios-goblin/capitulo/131",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-de-duen10-05-2025de-a-dios-goblin/capitulo/131",
 			"date_published": "2026-11-26T22:34:35.000Z"
 		},
 		{
 			"id": "El Dios Demonio [Capítulo 59]",
 			"title": "El Dios Demonio [Capítulo 59]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-el-dios-demonio/capitulo/59",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-el-dios-demonio/capitulo/59",
 			"date_published": "2026-11-26T21:53:18.000Z"
 		},
 		{
 			"id": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 325]",
 			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 325]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd/capitulo/325",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd/capitulo/325",
 			"date_published": "2026-11-26T21:52:47.000Z"
 		},
 		{
 			"id": "Hellogin [Capítulo 21]",
 			"title": "Hellogin [Capítulo 21]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-hellogin/capitulo/21",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-hellogin/capitulo/21",
 			"date_published": "2026-11-26T21:50:18.000Z"
 		},
 		{
 			"id": "nigromante de fuerza máxima [Capítulo 155]",
 			"title": "nigromante de fuerza máxima [Capítulo 155]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-nigroma10-05-2025ima-olympus-ver/capitulo/155",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-nigroma10-05-2025ima-olympus-ver/capitulo/155",
 			"date_published": "2026-11-26T21:07:49.000Z"
 		},
 		{
 			"id": "Rey usurero de Murim [Capítulo 29.2]",
 			"title": "Rey usurero de Murim [Capítulo 29.2]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-rey-usurero-de-murim-20261127-080201000/capitulo/29.2",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-rey-usurero-de-murim-20261127-080201000/capitulo/29.2",
 			"date_published": "2026-11-26T20:33:12.000Z"
 		},
 		{
 			"id": "Cómo criar villanos correctamente [Capítulo 63]",
 			"title": "Cómo criar villanos correctamente [Capítulo 63]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-como-criar-villanos-correctamente-20261127-080152848/capitulo/63",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-como-criar-villanos-correctamente-20261127-080152848/capitulo/63",
 			"date_published": "2026-11-26T19:39:25.000Z"
 		},
 		{
 			"id": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 123]",
 			"title": "Acampando en otro Mundo: buscandole el sazon a la vida [Capítulo 123]",
-			"url": "https://zonaolympus.milkchoco.online/series/comic-acampando-en-otro-mundo-buscandole-el-sazon-a-la-vida-20261127-080151931/capitulo/123",
+			"url": "https://zonaolympus.9thclassresult2026.com/series/comic-acampando-en-otro-mundo-buscandole-el-sazon-a-la-vida-20261127-080151931/capitulo/123",
 			"date_published": "2026-11-26T18:43:54.000Z"
 		},
 		{
@@ -2875,132 +3001,6 @@
 			"title": "¡Nigromante¡, ¡Yo soy la plaga! [Capítulo 321]",
 			"url": "https://olympusxyz.com/series/comic-nigrom20-225-ante-yo-soy-la-plagaasdfasd/capitulo/321",
 			"date_published": "2026-11-11T16:40:30.000Z"
-		},
-		{
-			"id": "Mi Vida Cuidando Dragonas [Capítulo 68]",
-			"title": "Mi Vida Cuidando Dragonas [Capítulo 68]",
-			"url": "https://olympusxyz.com/series/comic-mi-vida-cuidando-dragonas-20261112-080515535/capitulo/68",
-			"date_published": "2026-11-11T16:17:03.000Z"
-		},
-		{
-			"id": "Maldita Reencarnación [Capítulo 81.15]",
-			"title": "Maldita Reencarnación [Capítulo 81.15]",
-			"url": "https://olympusxyz.com/series/comic-otr20-225-rencarnado13424/capitulo/81.15",
-			"date_published": "2026-11-11T15:40:36.000Z"
-		},
-		{
-			"id": "Misterio, Poder, Caos [Capítulo 124]",
-			"title": "Misterio, Poder, Caos [Capítulo 124]",
-			"url": "https://olympusxyz.com/series/comic-misterio-poder-caos-20261112-080401917/capitulo/124",
-			"date_published": "2026-11-11T15:24:28.000Z"
-		},
-		{
-			"id": "nigromante de fuerza máxima [Capítulo 153]",
-			"title": "nigromante de fuerza máxima [Capítulo 153]",
-			"url": "https://olympusxyz.com/series/comic-nigroma10-05-2025ima-olympus-ver/capitulo/153",
-			"date_published": "2026-11-11T15:19:56.000Z"
-		},
-		{
-			"id": "Manual de instrucciones del Reencarnado [Capítulo 211]",
-			"title": "Manual de instrucciones del Reencarnado [Capítulo 211]",
-			"url": "https://olympusxyz.com/series/comic-manual-de-instrucc20-225-l-reencarnado/capitulo/211",
-			"date_published": "2026-11-11T14:51:28.000Z"
-		},
-		{
-			"id": "El dinero del Lord no disminuye [Capítulo 227]",
-			"title": "El dinero del Lord no disminuye [Capítulo 227]",
-			"url": "https://olympusxyz.com/series/comic-lordin12410-05-2025124124124/capitulo/227",
-			"date_published": "2026-11-11T14:42:25.000Z"
-		},
-		{
-			"id": "El Resucitado no Puede Morir [Capítulo 47]",
-			"title": "El Resucitado no Puede Morir [Capítulo 47]",
-			"url": "https://olympusxyz.com/series/comic-el-resucitado-no-puede-morir-20261111-080402072/capitulo/47",
-			"date_published": "2026-11-11T14:33:53.000Z"
-		},
-		{
-			"id": "Torre sin Fin [Capítulo 258.06]",
-			"title": "Torre sin Fin [Capítulo 258.06]",
-			"url": "https://olympusxyz.com/series/comic-torre-sin-fin-20261111-080327594/capitulo/258.06",
-			"date_published": "2026-11-11T14:24:43.000Z"
-		},
-		{
-			"id": "Pick me up, Gacha Infinito [Capítulo 227]",
-			"title": "Pick me up, Gacha Infinito [Capítulo 227]",
-			"url": "https://olympusxyz.com/series/comic-pick-me-up-gacha-infinito-20261111-080352697/capitulo/227",
-			"date_published": "2026-11-11T14:15:47.000Z"
-		},
-		{
-			"id": "Mago Oscuro (Black Haze remake) [Capítulo 98]",
-			"title": "Mago Oscuro (Black Haze remake) [Capítulo 98]",
-			"url": "https://olympusxyz.com/series/comic-mago-oscuro-black-haze-remake/capitulo/98",
-			"date_published": "2026-11-11T14:11:59.000Z"
-		},
-		{
-			"id": "El regreso del héroe de clase: Desastre [Capítulo 196]",
-			"title": "El regreso del héroe de clase: Desastre [Capítulo 196]",
-			"url": "https://olympusxyz.com/series/comic-el-cl20-225-ase-desastre13424/capitulo/196",
-			"date_published": "2026-11-11T13:41:12.000Z"
-		},
-		{
-			"id": "El hombre más guapo se convirtió en esqueleto [Capítulo 117]",
-			"title": "El hombre más guapo se convirtió en esqueleto [Capítulo 117]",
-			"url": "https://olympusxyz.com/series/comic-el-hombre-mas-guapo-se-convirtio-en-esqueleto-20261111-080339922/capitulo/117",
-			"date_published": "2026-11-11T13:03:30.000Z"
-		},
-		{
-			"id": "El Héroe no Puede Descansar [Capítulo 15]",
-			"title": "El Héroe no Puede Descansar [Capítulo 15]",
-			"url": "https://olympusxyz.com/series/comic-el-heroe-no-puede-descansar/capitulo/15",
-			"date_published": "2026-11-11T10:40:27.000Z"
-		},
-		{
-			"id": "Archimago trascendiendo a través de la regresión [Capítulo 222]",
-			"title": "Archimago trascendiendo a través de la regresión [Capítulo 222]",
-			"url": "https://olympusxyz.com/series/comic-archima20-225-de-la-regresion13424/capitulo/222",
-			"date_published": "2026-11-11T10:13:32.000Z"
-		},
-		{
-			"id": "El soberano del hogar [Capítulo 104]",
-			"title": "El soberano del hogar [Capítulo 104]",
-			"url": "https://olympusxyz.com/series/comic-el-soberano-del-hogar-20261111-080339926/capitulo/104",
-			"date_published": "2026-11-11T08:37:33.000Z"
-		},
-		{
-			"id": "El hijo bastardo del marqués era el emperador [Capítulo 132]",
-			"title": "El hijo bastardo del marqués era el emperador [Capítulo 132]",
-			"url": "https://olympusxyz.com/series/comic-el-hijo-bastardo-del-marques-era-el-emperador/capitulo/132",
-			"date_published": "2026-11-11T08:34:43.000Z"
-		},
-		{
-			"id": "Mago prismático genio [Capítulo 101]",
-			"title": "Mago prismático genio [Capítulo 101]",
-			"url": "https://olympusxyz.com/series/comic-mago-prismatico-genio-20261111-080340763/capitulo/101",
-			"date_published": "2026-11-11T07:03:21.000Z"
-		},
-		{
-			"id": "Artes Marciales Globales [Capítulo 377]",
-			"title": "Artes Marciales Globales [Capítulo 377]",
-			"url": "https://olympusxyz.com/series/comic-el-m10-05-2025en-de-las-peleas/capitulo/377",
-			"date_published": "2026-11-11T06:19:50.000Z"
-		},
-		{
-			"id": "Jugador devorador de acero [Capítulo 115]",
-			"title": "Jugador devorador de acero [Capítulo 115]",
-			"url": "https://olympusxyz.com/series/comic-jugador-devorador-de-acero-20261111-080328571/capitulo/115",
-			"date_published": "2026-11-11T04:44:43.000Z"
-		},
-		{
-			"id": "Geom Mugeuk [Capítulo 127]",
-			"title": "Geom Mugeuk [Capítulo 127]",
-			"url": "https://olympusxyz.com/series/comic-geom-mugeuk-20261111-080336457/capitulo/127",
-			"date_published": "2026-11-11T03:11:24.000Z"
-		},
-		{
-			"id": "Secta de la montaña [Capítulo 187]",
-			"title": "Secta de la montaña [Capítulo 187]",
-			"url": "https://olympusxyz.com/series/comic-secta-de-la-montana-20261111-080333579/capitulo/187",
-			"date_published": "2026-11-11T02:04:40.000Z"
 		}
 	]
 }
